@@ -15,7 +15,7 @@ theme                  : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "es_CL"
+locale                   : "es_ES"
 title                    : "Bioemprendedor.cl"
 title_separator          : "-"
 name                     : "Your Name"
