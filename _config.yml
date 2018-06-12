@@ -10,16 +10,16 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+# theme                  : "minimal-mistakes-jekyll"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "es_ES"
 title                    : "Bioemprendedor.cl"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "Un rincón de bioemprendedores para bioemprendedores"
+name                     : "Eduardo Zavala & Diego Belmar"
+description              : "Un espacio de contenido y experiencias para bioemprendedores"
 url                      : https://bioemprendedor.cl # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : / # the subpath of your site, e.g. "/blog"
 repository               : bioemprendedorcl/blog # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -27,9 +27,9 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : disqus # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : bioemprendedor # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -60,7 +60,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search_provider          : lunr # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -77,7 +77,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : bioemprendedorcl
 facebook:
   username               :
   app_id                 :

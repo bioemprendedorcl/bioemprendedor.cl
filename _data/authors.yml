@@ -1,16 +1,16 @@
 # /_data/authors.yml
 
-Billy Rick:
-  name: "Billy Rick"
-  uri: "http://thewhip.com"
-  email: "billy@rick.com"
+Diego Belmar:
+  name: "Diego Belmar"
+  uri: "https://diego.belmar.ws"
+  email: "diego@belmar.cc"
   bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: "/assets/images/bio-photo-2.jpg"
-  twitter: "extravagantman"
+  avatar: "/assets/img/bio-diego.jpg"
+  twitter: "diegoscl"
 
-Cornelius Fiddlebone:
-  name: "Cornelius Fiddlebone"
+Eduardo Zavala:
+  name: "Eduardo Zavala"
   email: "cornelius@thewhip.com"
   bio: "I ordered what?"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/img/bio-eduardo.jpg"
   twitter: "rhymeswithsackit"
