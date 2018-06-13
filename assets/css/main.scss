@@ -5,8 +5,8 @@
 @charset "utf-8";
 
 /* system typefaces */
-$serif      : 'Open Sans', Georgia, Times, serif;
-$sans-serif : 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$serif      : 'IBM Plex Sans', Georgia, Times, serif;
+$sans-serif : 'Open Sans', -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace  : Monaco, Consolas, "Lucida Console", monospace;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
