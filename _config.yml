@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "bioemprendedor"
-  avatar           : /assets/img/teaser.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/ico/handshake.svg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Un espacio de contenido y experiencias para bioemprendedores"
   location         : "SCL, Chile"
   email            : hola@bioemprendedor.cl
