@@ -24,7 +24,7 @@ url                      : https://bioemprendedor.cl # the base hostname & proto
 baseurl                  : / # the subpath of your site, e.g. "/blog"
 repository               : bioemprendedorcl/bioemprendedorcl.github.io
  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/img/teaser.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -102,9 +102,9 @@ analytics:
 # Site Author
 author:
   name             : "bioemprendedor"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/img/teaser.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Un espacio de contenido y experiencias para bioemprendedores"
-  location         : "Chile"
+  location         : "SCL, Chile"
   email            : hola@bioemprendedor.cl
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
