@@ -1,13 +1,4 @@
-  # Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-# Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
+# Welcome to Jekyll!
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
@@ -197,7 +188,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:year/:month/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: America/Santiago # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
