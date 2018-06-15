@@ -3,11 +3,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "es"
-title                    : "bioemprendedor.cl"
+title                    : "BIOEMPRENDEDOR"
 title_separator          : "-"
 name                     : "Eduardo Zavala & Diego Belmar"
 description              : "Un espacio de contenido y experiencias para bioemprendedores"
@@ -49,9 +49,9 @@ reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+  path                   : feed.xml # blank (default) uses feed.xml
 search                   : true # true, false (default)
-search_full_content      : # true, false (default)
+search_full_content      : false # true, false (default)
 search_provider          : lunr # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -92,7 +92,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "bioemprendedor"
+  name             : ""
   avatar           : /assets/ico/handshake.svg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Un espacio de contenido y experiencias para bioemprendedores"
   location         : "SCL, Chile"
