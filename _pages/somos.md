@@ -1,5 +1,5 @@
 ---
 title: "Quienes somos"
-permalink: /somos/
+permalink: /nosotros/
 author_profile: false
 ---
