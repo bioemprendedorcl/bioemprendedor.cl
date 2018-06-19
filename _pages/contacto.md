@@ -1,5 +1,5 @@
 ---
-title: "Contactanos"
+title: "Contáctanos"
 permalink: /contacto/
 layout: single
 classes: wide
