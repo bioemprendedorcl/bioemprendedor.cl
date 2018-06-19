@@ -1,6 +1,7 @@
 ---
 title: "Contactanos"
 permalink: /contacto/
+layout: single
 author_profile: true
 ---
 
