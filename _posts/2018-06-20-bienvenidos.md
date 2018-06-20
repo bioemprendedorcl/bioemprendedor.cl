@@ -1,5 +1,6 @@
 ---
 title:  "¡Bienvenidos todos los bioemprendedores!"
+excerpt: "Un espacio de contenido y experiencias para bioemprendedores "
 author: Diego Belmar
 header:
   teaser: "https://static.bioemprendedor.cl/file/bioemprendedor/bradley-wentzel-yQglZe.jpg"
