@@ -1,4 +1,12 @@
 # netlify.toml
+# Comandos para el deploy del sitio en la infraestructura de Netlify.
 [build]
   command = "jekyll build && jekyll algolia"
   publish = "_site"
+
+# Redirección proxy de contenido estatico alojado en B2 y cacheado por Cloudflare.
+[[redirects]]
+  from = "/static/*"
+  to = "https://static.bioemprendedor.cl/file/bioemprendedor/:splat"
+  status = 200
+  force = false
