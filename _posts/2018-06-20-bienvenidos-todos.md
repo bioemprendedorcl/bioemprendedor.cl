@@ -4,7 +4,7 @@ excerpt: "Un espacio de contenido y experiencias para bioemprendedores "
 author: Diego Belmar
 header:
   teaser: "https://static.bioemprendedor.cl/file/bioemprendedor/bradley-wentzel-yQglZe.jpg"
-  overlay_image: "https://static.bioemprendedor.cl/file/bioemprendedor/bradley-wentzel-yQglZe.jpg"
+  overlay_image: "https://bioemprendedor.cl/static/bradley-wentzel-yQglZe.jpg"
   overlay_filter: 0.5
   caption: "Foto: [Bradley Wentzel](https://unsplash.com/photos/dF5klhmgWqM) @ Unsplash"
 categories:
