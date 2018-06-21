@@ -1,18 +1,17 @@
 ---
 title:  "¡Bienvenidos todos los bioemprendedores!"
-excerpt: "Un espacio de contenido y experiencias para bioemprendedores "
+excerpt: "Un espacio de contenido y experiencias para bioemprendedores. ¡Te invitamos a colaborar!"
 author: Diego Belmar
 header:
-  teaser: "https://static.bioemprendedor.cl/file/bioemprendedor/bradley-wentzel-yQglZe.jpg"
+  teaser: "https://bioemprendedor.cl/static/bradley-wentzel-yQglZe.jpg"
   overlay_image: "https://bioemprendedor.cl/static/bradley-wentzel-yQglZe.jpg"
-  overlay_filter: 0.5
   caption: "Foto: [Bradley Wentzel](https://unsplash.com/photos/dF5klhmgWqM) @ Unsplash"
+  overlay_filter: 0.5
 categories:
-  - bioemprendedor
+  - bioemprendedor.cl
 tags:
-  - bienvenida
   - emprendimiento
-  - biotecnologia
+  - biotecnología
   - blog
 ---
 Queremos darte la bienvenida a este nuevo espacio donde hablaremos de biotecnología y emprendimiento (“_Bio_” + “_Emprendedores_”, ¿Se entiende?¿no?), desde una perspectiva de los pies en el barro, donde tenemos algunas historias que queremos contar porque a alguien le pueden servir. No se trata de que tengamos la respuesta a todas las cosas[^1], si no que nos apasiona esta industria, por lo que queremos entenderla y aportar un granito de arena para que siga creciendo y sea uno de los motores de nuestro país.
@@ -25,7 +24,7 @@ Esto lo queremos lograr a través del fomento del uso de herramientas que ayuden
 
 ## Nuestro mantra: colaborar, colaborar, colaborar
 
-Queremos que este sea un espacio abierto a todos porque estamos seguros que colaborar es uno de los pilares fundamentales del bioemprendimiento. Por esto, nuestro pequeño aporte va a ser dejar desde hoy mismo que este blog sea _open source_, es decir, abierto para que todos puedan usar su contenido y también puedan aportar en su construcción, desde el código que lo hace funcionar hasta las entradas que publicamos. ¡Todo es libre! **Lo único que te pedimos es que respetes la licencia CC-BY-4.0[^2]**, que en simple significa que autorizamos a copiar y redistribuir el material en cualquier medio o formato todo lo que aquí aparece, pero con la condición que siempre cites al autor original y hagas referencia a este sitio web.
+Queremos que este sea un espacio abierto a todos porque estamos seguros que colaborar es uno de los pilares fundamentales del bioemprendimiento. Por esto, nuestro pequeño aporte va a ser dejar desde hoy mismo que este blog sea _open source_, es decir, abierto para que todos puedan usar su contenido y también puedan aportar en su construcción, desde el código que lo hace funcionar hasta las entradas que publicamos. ¡Todo es libre! **Lo único que te pedimos es que respetes la licencia CC-BY-4.0[^2]**, que en simple significa que autorizamos a copiar y redistribuir todo lo que aquí aparece en cualquier medio o formato, pero con la condición que siempre cites al autor original y hagas referencia a este sitio web.
 
 Para lograr esto, todo nuestro contenido y código del blog está publicado en un [repositorio alojado en Github](https://github.com/bioemprendedorcl/bioemprendedorcl.github.io "Bioemprendedor.cl en Github") (_Sí, Diego tiene la culpa de sacar a brillar su lado geek_). Esto también nos permite que si quieres ayudar a mejorar algo solo tengas que hacer un _fork_ y después un _pull request_ para que incorporemos tu aporte[^3]. Puedes proponer cambios a cualquier archivo o publicación; y si tú quieres escribir algo para compartir solo haz el _pull request_ en la carpeta _drafts_ para que lo revisemos y después lo publiquemos. Si ya esto te suena demasiado difícil (_Que de verdad es súper simple y a la larga bueno de aprender_), puedes escribirnos mediante nuestra [página de contacto](/contacto/ "Contáctanos") con tu aporte.
 
