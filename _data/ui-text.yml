@@ -64,14 +64,14 @@ es: &DEFAULT_ES
   toc_label                  : "Contenidos"
   ext_link_label             : "Enlace"
   less_than                  : "menos de"
-  minute_read                : "minuto de lectura"
+  minute_read                : "minuto(s) de lectura"
   share_on_label             : "Compartir"
   meta_label                 :
   tags_label                 : "Etiquetas:"
   categories_label           : "Categorías:"
   date_label                 : "Actualizado:"
-  comments_label             : "Comentar"
-  comments_title             :
+  comments_label             : "Deja tú comentario"
+  comments_title             : "Comentarios"
   more_label                 : "Ver más"
   related_label              : "Podrías ver también"
   follow_label               : "Seguir:"
