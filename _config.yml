@@ -270,15 +270,3 @@ defaults:
       comments: true # true
       share: true
       related: true
-    # _pages
-    - scope:
-        path: ""
-        type: pages
-      values:
-        layout: single
-        classes: wide
-        author_profile: false
-        read_time: false
-        comments: false # true
-        share: false
-        related: false
