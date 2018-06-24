@@ -12,7 +12,7 @@
 
 theme                    : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "es"
@@ -23,7 +23,7 @@ description              : "Un espacio de contenido y experiencias para bioempre
 url                      : "https://bioemprendedor.cl" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "bioemprendedorcl/bioemprendedor.cl" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/img/teaser.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -59,11 +59,11 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : "true" # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : algolia # lunr (default), algolia, google
+search_full_content      : "true" # true, false (default)
+search_provider          : "algolia" # lunr (default), algolia, google
 algolia:
   application_id         : "772ZXK6Z5R" # YOUR_APPLICATION_ID
-  index_name             : "bioemprendedor.cl"# YOUR_INDEX_NAME
+  index_name             : "bioemprendedor.cl" # YOUR_INDEX_NAME
   search_only_api_key    : "55c291c2b1eb27ac852786a0f8622c5c" # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : "true" # true (default), false
 google:
@@ -77,7 +77,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "bioemprendedorcl"
 facebook:
   username               :
   app_id                 :
@@ -102,7 +102,7 @@ analytics:
 author:
   # name             : "BIOEMPRENDEDOR"
   avatar           : /assets/img/avatar-bioemprendedor.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Un espacio de contenido y experiencias para bioemprendedores. Hecho para ustedes con por Eduardo Zavala y Diego Belmar."
+  bio              : "Un espacio de contenido y experiencias para bioemprendedores.<br /> Hecho para ustedes por Eduardo Zavala y Diego Belmar."
   location         : "Santiago, Chile."
   email            : "hola@bioemprendedor.cl"
   uri              :
