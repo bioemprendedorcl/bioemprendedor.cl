@@ -9,4 +9,4 @@
   from = "/static/*"
   to = "https://bioemprendedor.dipio.cl/file/bioemprendedor/:splat"
   status = 200
-  force = false
+  force = true
