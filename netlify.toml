@@ -2,7 +2,7 @@
 # Comandos para el deploy del sitio en la infraestructura de Netlify.
 [build]
   command = "JEKYLL_ENV=production jekyll build && jekyll algolia"
-  publish = "_site"
+  publish = "/_site"
 # Redirección proxy de contenido estatico alojado en B2 y cacheado por Cloudflare.
 [[redirects]]
   from = "/static/*"
