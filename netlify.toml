@@ -3,7 +3,6 @@
 [build]
   command = "jekyll build && jekyll algolia"
   publish = "_site"
-  environment = { JEKYLL_ENV="production" }
 # Redirección proxy de contenido estatico alojado en B2 y cacheado por Cloudflare.
 [[redirects]]
   from = "/static/*"
