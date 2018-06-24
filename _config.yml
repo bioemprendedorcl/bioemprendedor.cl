@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             :
   avatar           : "/assets/img/avatar-bioemprendedor.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Un espacio de contenido y experiencias para bioemprendedores. Hecho para ustedes con <i class="fas fa-fw fa-heart"></i> por Eduardo Zavala y Diego Belmar."
   location         : "Santiago, Chile."
