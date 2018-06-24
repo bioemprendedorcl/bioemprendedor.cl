@@ -7,11 +7,6 @@
 # Redirección proxy de contenido estatico alojado en B2 y cacheado por Cloudflare.
 [[redirects]]
   from = "/static/*"
-  to = "https://f002.backblazeb2.com/file/bioemprendedor/:splat"
+  to = "https://bioemprendedor.dipio.cl/file/bioemprendedor/:splat"
   status = 200
   force = false
-# Agrego headers de salida
-[[headers]]
-  for = "/static/*"
-  [headers.values]
-    Cache-Control = "public; max-age=31536000"
