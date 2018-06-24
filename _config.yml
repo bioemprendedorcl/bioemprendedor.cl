@@ -57,15 +57,15 @@ reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-  path                   : # blank (default) uses feed.xml
-search                   : "true" # true, false (default)
-search_full_content      : "true" # true, false (default)
-search_provider          : "algolia" # lunr (default), algolia, google
+  path                   : feed.xml # blank (default) uses feed.xml
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : algolia # lunr (default), algolia, google
 algolia:
   application_id         : "772ZXK6Z5R" # YOUR_APPLICATION_ID
-  index_name             : "bioemprendedor.cl" # YOUR_INDEX_NAME
+  index_name             : "bioemprendedor" # YOUR_INDEX_NAME
   search_only_api_key    : "55c291c2b1eb27ac852786a0f8622c5c" # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : "true" # true (default), false
+  powered_by             : true # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
@@ -102,7 +102,7 @@ analytics:
 author:
   # name             : "BIOEMPRENDEDOR"
   avatar           : /assets/img/avatar-bioemprendedor.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Un espacio de contenido y experiencias para bioemprendedores.<br /> Hecho para ustedes por Eduardo Zavala y Diego Belmar."
+  bio              : "Un espacio de contenido, experiencias y aprendizajes para bioemprendedores. Hecho para ustedes por Eduardo Zavala y Diego Belmar."
   location         : "Santiago, Chile."
   email            : "hola@bioemprendedor.cl"
   uri              :
