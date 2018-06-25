@@ -6,9 +6,9 @@ classes: wide
 author_profile: true
 excerpt: "¡Siempre estamos disponibles para conversar!"
 header:
-  overlay_image: https://static.bioemprendedor.cl/file/bioemprendedor/freddie-marriage-264214-unsplash-CLFQsK.jpg
+  overlay_image: https://bioemprendedor.cl/static/contacto-bHgDJd.jpg
   overlay_filter: 0.5
-  caption: "Foto: [freddie marriage](https://unsplash.com/photos/vSchPA-YA_A) @ Unsplash"
+  caption: "Foto: [Thought Catalog](https://unsplash.com/photos/UK78i6vK3sc) @ Unsplash"
 ---
 
 Para que nos pongamos en contacto te proponemos 2 alternativas, redes sociales y el clásico formulario de contacto vía correo electrónico. ¡Cualquier sirve!
