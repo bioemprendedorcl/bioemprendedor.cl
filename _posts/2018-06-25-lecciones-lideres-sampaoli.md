@@ -1,5 +1,6 @@
 ---
 title: "Las lecciones que dejan para los líderes las actitudes de Jorge Sampaoli"
+author: Diego Belmar
 categories:
   - Bioemprendimiento
 tags:
