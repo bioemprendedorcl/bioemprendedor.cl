@@ -92,7 +92,11 @@ es: &DEFAULT_ES
   comment_success_msg        : "Gracias por su comentario!, Este se visualizará en el sitio una vez haya sido aprobado"
   comment_error_msg          : "Lo sentimos, ha ocurrido un error al enviar su comentario. Por favor asegurese que todos los campos han sido diligenciados e intente de nuevo"
   loading_label              : "Cargando..."
+<<<<<<< HEAD
   search_placeholder_text    : "Escribe tus terminos de búsqueda..."
+=======
+  search_placeholder_text    : "Escribe tus terminos de busqueda..."
+>>>>>>> d6a044b967a1de45e759c3a1f1fbcef20dc4d33e
   results_found              : "Resultado(s) encontrados"
   back_to_top                : "Volver arriba"
 es-ES:
