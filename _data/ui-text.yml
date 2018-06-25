@@ -70,7 +70,7 @@ es: &DEFAULT_ES
   tags_label                 : "Etiquetas:"
   categories_label           : "Categorías:"
   date_label                 : "Actualizado:"
-  comments_label             : "Comentarios"
+  comments_label             : "Deja un comentario"
   comments_title             : "Comentarios"
   more_label                 : "Ver más"
   related_label              : "Podrías ver también"
@@ -92,6 +92,9 @@ es: &DEFAULT_ES
   comment_success_msg        : "Gracias por su comentario!, Este se visualizará en el sitio una vez haya sido aprobado"
   comment_error_msg          : "Lo sentimos, ha ocurrido un error al enviar su comentario. Por favor asegurese que todos los campos han sido diligenciados e intente de nuevo"
   loading_label              : "Cargando..."
+  search_placeholder_text    : "Escribe tus terminos de búsqueda..."
+  results_found              : "Resultado(s) encontrados"
+  back_to_top                : "Volver arriba"
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
