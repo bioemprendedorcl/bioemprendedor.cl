@@ -3,8 +3,8 @@ title: "Las lecciones que dejan para los líderes las actitudes de Jorge Sampaol
 categories:
   - Bioemprendimiento
 tags:
-  - Liderazgo
-  - Futbol
+  - liderazgo
+  - fútbol
 link: https://www.lanacion.com.ar/2146728-las-lecciones-que-dejan-para-los-lideres-las-actitudes-de-jorge-sampaoli
 ---
 
