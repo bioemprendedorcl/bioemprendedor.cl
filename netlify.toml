@@ -10,4 +10,4 @@
   to = "https://s2.dipio.cl/file/bioemprendedor/:splat"
   status = 200
   force = false
-  headers = {Cache-Control = "Public, max-age=1382400",X-From = "Netlify-Bio"}
+  headers = {Cache-Control = "Public, max-age=1382400"}
