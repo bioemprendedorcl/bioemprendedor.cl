@@ -7,7 +7,7 @@
 # Redirección proxy de contenido estatico alojado en B2 y cacheado por Cloudflare.
 [[redirects]]
   from = "/static/*"
-  to = "https://bioemprendedor.dipio.cl/file/bioemprendedor/:splat"
+  to = "https://s2.dipio.cl/file/bioemprendedor/:splat"
   status = 200
   force = false
   headers = {Cache-Control = "Public, max-age=1382400",X-From = "Netlify-Bio"}
