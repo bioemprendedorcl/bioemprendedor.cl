@@ -22,13 +22,13 @@ Completa los datos del siguiente formulario. Te intentaremos contactar lo antes 
 
 <form name="contacto" action="" method="POST" data-netlify="true" netlify-honeypot="_gotcha">
   <fieldset>
-    Tu nombre y apellido: <input class="input" id="name" type="text" name="name" value="" required="required" />
-    Tu correo electrónico: <input class="input" id="_replyto" type="email" name="_replyto" value="" required="required" />
-    Tu mensaje:<textarea class="textarea" rows="4" id="message" name="message" required="required"></textarea>
+    <i class="fas fa-fw fa-user-ninja"></i> Tu nombre y apellido: <input class="input" id="name" type="text" name="name" value="" required="required" />
+    <i class="fas fa-fw fa-at"></i> Tu correo electrónico: <input class="input" id="_replyto" type="email" name="_replyto" value="" required="required" />
+    <i class="fas fa-fw fa-pencil-alt"></i> Tu mensaje:<textarea class="textarea" rows="4" id="message" name="message" required="required"></textarea>
     <p>
       <div data-netlify-recaptcha></div>
     </p>
-    <input class="button" type="submit" value="Enviar mensaje" />
+    <input class="button" type="submit" value="Enviar mensaje <i class="fas fa-fw fa-plane-departure"></i>" />
     <br/>
     <input type="text" name="_gotcha" style="display:none">
     <input type="hidden" name="_subject" value="Nuevo mensaje desde el blog">
