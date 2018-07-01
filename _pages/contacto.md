@@ -15,10 +15,10 @@ Para que nos pongamos en contacto te proponemos 2 alternativas, redes sociales y
 
 Lo único que te pedimos es que no uses estos medios como vía de SPAM. ¡Los simples mortales lo odiamos!
 
-[<i class="fab fa-twitter"></i> Envinos un DM en Twitter](https://twitter.com/messages/compose?recipient_id=6705812){: .btn .btn--primary .btn--twitter .btn--x-large}
+[<i class="fab fa-twitter"></i> Escribenos un DM en Twitter](https://twitter.com/messages/compose?recipient_id=6705812){: .btn .btn--primary .btn--twitter .btn--x-large}
 
 <h2>Formulario de contacto</h2>
-Completa los datos del siguiente formulario. Te intentaremos contactar lo antes posible, pero recuerda que no somos robots que están todo el día contestanto correos. Todos los campos son requeridos.
+Completa los datos del siguiente formulario. Te intentaremos contestar lo antes posible, pero recuerda que no somos robots que están todo el día contestanto correos. Todos los campos son requeridos.
 
 <form name="contacto" action="" method="POST" data-netlify="true" netlify-honeypot="_gotcha">
   <fieldset>
@@ -28,7 +28,7 @@ Completa los datos del siguiente formulario. Te intentaremos contactar lo antes 
     <p>
       <div data-netlify-recaptcha></div>
     </p>
-    <input class="button" type="submit" value="Enviar mensaje <i class="fas fa-fw fa-plane-departure"></i>" />
+    <input class="button" type="submit" value="Enviar mensaje" />
     <br/>
     <input type="text" name="_gotcha" style="display:none">
     <input type="hidden" name="_subject" value="Nuevo mensaje desde el blog">
