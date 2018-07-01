@@ -4,10 +4,10 @@
   command = "jekyll build && jekyll algolia"
   publish = "_site"
   environment = { JEKYLL_ENV="production" }
-# Redirección proxy de contenido estatico alojado en B2 y cacheado por Cloudflare.
+# Redirección proxy de contenido estatico alojado en B2 y cacheado por Cloudflare. (https://s2.dipio.cl/file/bioemprendedor/)
 [[redirects]]
   from = "/static/*"
-  to = "https://s2.dipio.cl/file/bioemprendedor/:splat"
+  to = "https://f002.backblazeb2.com/file/bioemprendedor/:splat"
   status = 200
-  force = false
+  force = true
   headers = {Cache-Control = "Public, max-age=1382400"}
