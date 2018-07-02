@@ -10,4 +10,5 @@
   to = "https://f002.backblazeb2.com/file/bioemprendedor/:splat"
   status = 200
   force = true
-  headers = {Cache-Control = "Public, max-age=1382400"}
+  headers = {Cache-Control = "Public, max-age=31536000"}
+  headers = {X-From = "Netlify CDN"}
