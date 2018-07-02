@@ -1,5 +1,6 @@
 ---
 title: La información en el bioemprendimiento vale (¡y mucho!)
+excerpt: "El principal activo de un bioemprendimiento es la información que se genera día a día en el proceso de investigación y desarrollo que lleva adelante para plasmar la idea original desde donde nació el proyecto."
 author: Diego Belmar
 categories:
   - gestion
@@ -8,7 +9,7 @@ tags:
   - información
 ---
 
-Esta entrada fué publicada originalmente para mi blog personal, pero la dejo aquí en bioemprendedor.cl como referencia :wink:.{: .notice--info}
+Esta entrada fué publicada originalmente para mi blog personal, pero la dejo aquí en bioemprendedor.cl como referencia :wink:. {: .notice--info}
 
 Una declaración de principios: El principal activo de un bioemprendimiento es la información que se genera día a día en el proceso de investigación y desarrollo que lleva adelante para plasmar la idea original desde donde nació el proyecto. Punto.
 
