@@ -1,12 +1,17 @@
 ---
 title: Emprender es como ir en un barco a vela, no viajar en un tren
-categories: 
+excerpt: "Por definición emprender es comenzar algo, por ejemplo un viaje o una empresa. Pueden parecer dos cosas distintas, pero en ambos casos el emprender nos plantea la misma pregunta: ¿Viajamos en un tren o en un barco a vela?"
+author: Diego Belmar
+categories:
   - emprendimiento
 tags:
-  - crecimiento
+  - desafio
   - aventura
   - trabajo
 ---
+
+Esta entrada fué publicada originalmente el 2014 en mi blog personal, pero la dejo aquí en bioemprendedor.cl como referencia y para que no se pierda en los rincones de internet :wink:.
+{: .notice--info}
 
 Por definición <em>emprender</em> es comenzar algo, por ejemplo un viaje o una empresa. Pueden parecer dos cosas distintas, pero en ambos casos el <em>emprender</em> nos plantea la misma pregunta: <strong>¿Viajamos en un tren o en un barco a vela?</strong>
 

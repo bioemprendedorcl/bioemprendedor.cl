@@ -1,8 +1,18 @@
 ---
 title: Emprender es y será trabajar en equipo
-categories: emprendimiento
-feature_image: /images/posts/2016-team.jpg
+excerpt: "Si quieres llegar rápido, camina solo. Si quieres llegar lejos, camina en grupo."
+author: Diego Belmar
+categories:
+  - gestión
+tags:
+  - equipo
+  - personas
+  - trabajo
+  - cultura
 ---
+
+Esta entrada fué publicada originalmente el 2016 en mi blog personal, pero la dejo aquí en bioemprendedor.cl como referencia y para que no se pierda en los rincones de internet :wink:.
+{: .notice--info}
 
 Soy defensor de que el equipo de un emprendimiento es el pilar fundamental para poder sacar adelante un proyecto. Nadie puede sacar adelante una idea en solitario, necesita de más gente en la que apoyarse y lograr realmente trabajar en equipo.
 

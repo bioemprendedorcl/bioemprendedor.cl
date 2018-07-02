@@ -1,8 +1,17 @@
 ---
 title: Una definición de empresa, emprendimiento y start-up
-categories: emprendimiento
-feature_image: /images/posts/2016-empresa-emprendimiento-startup.jpg
+excerpt: "En todas partes estas 3 palabras se usan como sinónimos, pero también como cosas totalmente opuestas. ¿Cómo los definimos?"
+author: Diego Belmar
+categories:
+  - emprendimiento
+tags:
+  - empresa
+  - emprendimiento
+  - start-up
 ---
+
+Esta entrada fué publicada originalmente el 2016 en mi blog personal, pero la dejo aquí en bioemprendedor.cl como referencia y para que no se pierda en los rincones de internet :wink:.
+{: .notice--info}
 
 Siempre tuve la inquietud de porqué en el _mundo emprendedor,_ los términos "_empresa_", "_emprendimiento_" y "_start-up_" a veces los escuchaba como si fueran lo mismo y otras veces como si fueran cosas distintas. En todas partes se usan como sinónimos, pero también como cosas totalmente opuestas.
 

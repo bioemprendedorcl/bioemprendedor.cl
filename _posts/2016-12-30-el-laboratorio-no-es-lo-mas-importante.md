@@ -1,8 +1,18 @@
 ---
 title: ¡El laboratorio no es lo (más) importante!
-categories: emprendimiento
-feature_image: /images/posts/2016-laboratorio.jpg
+excerpt: "El primer paso que todo emprendedor debe dar es la validación comercial de la idea, es decir, salir a la calle y encontrar a los potenciales clientes, aquellos que van a pagar por lo que quiero hacer."
+author: Diego Belmar
+categories:
+  - emprendimiento
+tags:
+  - laboratorio
+  - mercado
+  - desarrollo
+  - etapa temprana
 ---
+
+Esta entrada fué publicada originalmente el 2016 en mi blog personal, pero la dejo aquí en bioemprendedor.cl como referencia y para que no se pierda en los rincones de internet :wink:.
+{: .notice--info}
 
 En Phage hemos tenido la suerte de conversar con varios emprendedores del área de la biotecnología (a.k.a *Bioemprendedores*) que están iniciando el camino de llevar una idea a un producto o servicio, lo que es increíble que suceda. Gracias a eso hemos podido observar como se está desarrollando el emprendimiento biotecnológico en el país y ver de primera fuente los problemas que existen para sacar adelante un proyecto.
 
