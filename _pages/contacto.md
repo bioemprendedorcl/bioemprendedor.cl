@@ -11,13 +11,13 @@ header:
   caption: "Foto: [Thought Catalog](https://unsplash.com/photos/UK78i6vK3sc) @ Unsplash"
 ---
 
-Para que nos pongamos en contacto te proponemos 2 alternativas, redes sociales y el clásico formulario de contacto vía correo electrónico. ¡Cualquier sirve!
+Para que nos pongamos en contacto te proponemos 2 alternativas: redes sociales y el clásico formulario de contacto vía correo electrónico. ¡Cualquier sirve!
 
 Lo único que te pedimos es que no uses estos medios como vía de SPAM. ¡Los simples mortales lo odiamos!
 
 [<i class="fab fa-twitter"></i> Escribenos un DM en Twitter](https://twitter.com/messages/compose?recipient_id=6705812){: .btn .btn--primary .btn--twitter .btn--x-large}
 
-<h2>Formulario de contacto</h2>
+<h2>Envianos un correo</h2>
 Completa los datos del siguiente formulario. Te intentaremos contestar lo antes posible, pero recuerda que no somos robots que están todo el día contestanto correos. Todos los campos son requeridos.
 
 <form name="contacto" action="" method="POST" data-netlify="true" netlify-honeypot="_gotcha">
