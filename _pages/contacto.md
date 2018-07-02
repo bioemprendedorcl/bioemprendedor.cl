@@ -16,10 +16,10 @@ Para que nos pongamos en contacto te proponemos 2 alternativas: redes sociales y
 Lo único que te pedimos es que no uses estos medios como vía de SPAM. ¡Los simples mortales lo odiamos!
 
 <h2>Escribenos en redes sociales</h2>
-[<i class="fab fa-twitter"></i> Escribenos un DM en Twitter](https://twitter.com/messages/compose?recipient_id=6705812){: .btn .btn--primary .btn--twitter .btn--x-large}
+[<i class="fab fa-twitter"></i> Envianos un DM en Twitter](https://twitter.com/messages/compose?recipient_id=6705812){: .btn .btn--primary .btn--twitter .btn--x-large}
 
-<h2>Envianos un correo electrónico</h2>
-Te aseguramos que leemos todos los correos por lo que intentaremos contestar lo antes posible, pero recuerda que no somos robots <i class="fas fa-robot"></i> que están todo el día contestanto así que ten paciencia (Todos los campos son requeridos).
+<h2>Escribenos un correo electrónico</h2>
+Te aseguramos que leemos todos los correos por lo que intentaremos contestar lo antes posible, pero recuerda que no somos robots <i class="fas fa-robot"></i> que están todo el día tecleando así que ten paciencia (Todos los campos son requeridos).
 
 <form name="contacto" action="" method="POST" data-netlify="true" netlify-honeypot="_gotcha">
   <fieldset>
