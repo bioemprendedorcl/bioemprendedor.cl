@@ -16,7 +16,11 @@ header:
 
 Como ya comenté, mi formación es de Ingeniero en Biotecnologia, pero además decidí hacer un Magíster en Biotecnología y después, gracias a la experiencia vivida en Phage, hacer un Magíster en Ingeniería Industrial (MII). Este camino me ha llevado al mundo del **bioemprendimiento, innovación y transferencia tecnológica**; por lo que actualmente estoy ayudando a empresas en etapas de escalamiento a cumplir sus objetivos y a tratar de conquistar el mundo.
 
-## Eduardo Zavala
-![Eduardo Zavala](/assets/img/avatar-eduardo-200.jpg){: .align-right} ¡Hola!  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sagittis mi et ex ornare egestas. Donec a nisl metus. Nunc scelerisque tincidunt viverra. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean et nulla sed orci eleifend dapibus at in leo. Donec cursus elit non erat tempus placerat. Pellentesque faucibus ullamcorper purus, nec elementum tellus consectetur at. Ut eu ante eu mauris hendrerit venenatis. Quisque nec semper lorem. Nulla facilisi. Praesent consectetur quis magna et sodales.
+Espero poder publicar en base a las experiencias y aprendizajes obtenidos por tener los pies en el barro del bioemprendimiento. Si la empresa que co-fundé se demoró 8 años en comercializar sus productos con un partner de clase mundial, quiero que el próximo proyecto se demore ojalá menos del 50% de ese tiempo. ¡Ese es mi norte!
 
-Sed venenatis lectus risus. Phasellus ultricies magna eget erat tristique dictum at eget eros. Donec lacinia elementum pellentesque. Integer cursus, arcu in posuere elementum, neque urna lacinia ex, sed auctor felis erat et dolor. Duis et ipsum sit amet ligula ullamcorper consectetur in ut risus. In hac habitasse platea dictumst. Integer commodo tellus nulla, at cursus tortor mollis ornare.
+## Eduardo Zavala
+![Eduardo Zavala](/assets/img/avatar-eduardo-200.jpg){: .align-right} ¡Hola a todos! Soy Ingeniero en biotecnología y desde hace casi 6 años me encuentro relacionada al ecosistema de emprendimiento Chileno. Primero en la Universidad de Santiago, luego formalizando la ANEIB y luego fundando dos empresas relacionadas al desarrollo de productos para la industria de los alimentos. Hoy estoy dándolo todo en Done Properly Co. una compañía foodtech que desarrolla mejores alimentos a través de tecnologías de fermentación.
+
+Pero también una de mis motivaciones es transmitir las experiencias y aprendizajes que he obtenido del ecosistema. En mis post leerán de política relacionada al emprendimiento, herramientas para encontrar y mantener el foco de los roles de cada persona dentro de la compañía y también las virtudes y vicios que he visto del ecosistema. Siempre con la idea de fomentar el emprendimiento y disminuir las brechas.
+
+¡Nos leemos en el blog!
