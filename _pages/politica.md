@@ -30,6 +30,18 @@ El texto legal completo de la licencia se encuentra disponible en [https://creat
 
 [e44cb488]: https://creativecommons.org/licenses/by/4.0/deed.es "Creative Commons"
 
+## Política de privacidad y datos personales
+
+Este sitio web solicitará datos personales solo cuando sea necesario identificar al usuario, es decir, principalmente en nuestro formulario de contacto.
+
+Los datos personales solicitados no serán compartidos, ni vendidos, no cedidos de ninguna forma nunca a nadie. Punto. Odiamos el SPAM tanto como cualquier mortal.
+
+Esta política no aplica a los servicios de terceros que utilizamos. Ellos mantienen sus propias políticas de privacidad donde se incluyen, pero no limitan a, los siguientes:
+
+- Google Analytics: https://policies.google.com/privacy?hl=es
+- Disqus: https://help.disqus.com/terms-and-policies/disqus-privacy-policy
+- Cloudflare: https://www.cloudflare.com/privacypolicy/
+
 ## Política de comentarios
 
 Los autores del sitio no se hace responsable en ningún caso de las opiniones de sus lectores en los comentarios, así como puede o no estar de acuerdo con lo que en ellos se diga.
@@ -82,3 +94,7 @@ Son aquéllas que, bien tratadas por nosotros o por terceros, permiten gestionar
 #### Otras cookies de terceros
 
 En algunas de nuestras páginas se pueden instalar cookies de terceros que permitan gestionar y mejorar los servicios que éstos ofrecen. Un ejemplo de este uso son los enlaces a las redes sociales que permiten compartir nuestros contenidos.
+
+## Fecha de actualización
+
+Estas políticas han sido actualizadas y se encuentran vigentes desde el **1 de Julio de 2018**.
