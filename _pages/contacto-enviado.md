@@ -11,8 +11,10 @@ header:
   caption: "Foto: [Thought Catalog](https://unsplash.com/photos/UK78i6vK3sc) @ Unsplash"
 ---
 
-<h2>Tu mensaje fue enviado correctamente</h2>
+<h2><i class="far fa-clipboard-check"></i> Tu mensaje fue enviado correctamente</h2>
 
-Hacemos todos los esfuerzos por contestar lo antes posible, pero ten paciencia. Muchas gracias por ponerte en contacto.
+Hacemos todos los esfuerzos por contestar lo antes posible, pero ten paciencia. Nuestro robots ya están trabajando en hacernos llegar tu mensaje.
 
-<h1><i class="far fa-clipboard-check"></i></h1>
+Muchas gracias por ponerte en contacto.
+
+<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/3gpfkdQIunv5C" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>

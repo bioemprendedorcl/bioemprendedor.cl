@@ -33,6 +33,6 @@ Te aseguramos que leemos todos los correos por lo que intentaremos contestar lo 
     <br/>
     <input type="text" name="_gotcha" style="display:none">
     <input type="hidden" name="_subject" value="Nuevo mensaje desde el blog">
-    <input type="hidden" name="_next" value="contacto/enviado/" />
+    <input type="hidden" name="_next" value="https://bioemprendedor.cl/contacto/enviado" />
   </fieldset>
 </form>
