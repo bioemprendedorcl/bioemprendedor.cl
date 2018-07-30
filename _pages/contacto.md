@@ -15,10 +15,10 @@ Para que nos pongamos en contacto te proponemos 2 alternativas: redes sociales y
 
 Lo único que te pedimos es que no uses estos medios como vía de SPAM. ¡Los simples mortales lo odiamos!
 
-<h2>Escribenos en redes sociales</h2>
-[<i class="fab fa-twitter"></i> Envianos un DM en Twitter](https://twitter.com/messages/compose?recipient_id=6705812){: .btn .btn--primary .btn--twitter .btn--x-large}
+<h2>Escríbenos en redes sociales</h2>
+[<i class="fab fa-twitter"></i> Envíanos un DM en Twitter](https://twitter.com/messages/compose?recipient_id=1009086166140968960){: .btn .btn--primary .btn--twitter .btn--x-large}
 
-<h2>Escribenos un correo electrónico</h2>
+<h2>Escríbenos un correo electrónico</h2>
 Te aseguramos que leemos todos los correos por lo que intentaremos contestar lo antes posible, pero recuerda que no somos robots <i class="fas fa-robot"></i> que están todo el día tecleando así que ten paciencia (Todos los campos son requeridos).
 
 <form name="contacto" action="" method="POST" data-netlify="true" netlify-honeypot="_gotcha">
@@ -33,6 +33,6 @@ Te aseguramos que leemos todos los correos por lo que intentaremos contestar lo 
     <br/>
     <input type="text" name="_gotcha" style="display:none">
     <input type="hidden" name="_subject" value="Nuevo mensaje desde el blog">
-    <input type="hidden" name="_next" value="/thanks/" />
+    <input type="hidden" name="_next" value="contacto/enviado/" />
   </fieldset>
 </form>
