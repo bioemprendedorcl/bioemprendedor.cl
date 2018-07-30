@@ -29,10 +29,10 @@ Te aseguramos que leemos todos los correos por lo que intentaremos contestar lo 
     <p>
       <div data-netlify-recaptcha></div>
     </p>
-    <input class="button" type="submit" value="Enviar mensaje" />
     <br/>
     <input type="text" name="_gotcha" style="display:none">
     <input type="hidden" name="_subject" value="Nuevo mensaje desde el blog">
     <input type="hidden" name="_next" value="https://bioemprendedor.cl/contacto/enviado" />
+    <input class="button" type="submit" value="Enviar mensaje" />
   </fieldset>
 </form>
