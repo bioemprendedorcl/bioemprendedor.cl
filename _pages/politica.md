@@ -2,7 +2,7 @@
 title: "Políticas del sitio"
 permalink: /politicas/
 layout: single
-classes: wide
+# classes: wide
 author_profile: true
 excerpt: ""
 header:
@@ -19,12 +19,12 @@ Al navegar y utilizar este sitio web (_bioemprendedor.cl_) aceptas y asumes las 
 
 El contenido publicado en este sitio web se comparte con una licencia de contenido Creative Commons del tipo **"Atribución 4.0 Internacional"** (CC-BY-4.0). En resumen (y no como sustituto) los visitantes son libres de:
 
-- Compartir — copiar y redistribuir el material en cualquier medio o formato
-- Adaptar — remezclar, transformar y construir a partir del material para cualquier propósito, incluso comercialmente.
+- **Compartir** — copiar y redistribuir el material en cualquier medio o formato.
+- **Adaptar** — remezclar, transformar y construir a partir del material para cualquier propósito, incluso comercialmente.
 
 Esto bajo los siguientes términos:
 
-- Atribución — Usted debe dar crédito de manera adecuada, brindar un enlace a la licencia, e indicar si se han realizado cambios. Puede hacerlo en cualquier forma razonable, pero no de forma tal que sugiera que usted o su uso tienen el apoyo de la licenciante.
+- **Atribución** — Usted debe dar crédito de manera adecuada, brindar un enlace a la licencia, e indicar si se han realizado cambios. Puede hacerlo en cualquier forma razonable, pero no de forma tal que sugiera que usted o su uso tienen el apoyo de la licenciante.
 
 El texto legal completo de la licencia se encuentra disponible en [https://creativecommons.org/licenses/by/4.0/deed.es][e44cb488]
 
