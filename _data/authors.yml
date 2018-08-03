@@ -1,4 +1,4 @@
-# /_data/authors.yml
+# EDITORES
 
 Diego Belmar:
   name: "Diego Belmar"
@@ -16,3 +16,13 @@ Eduardo Zavala:
   avatar: "/assets/img/avatar-eduardo.jpg"
   twitter: "edzavalap"
   github: "edzavala"
+
+# INVITADOS
+
+Pablo Fernandez:
+  name: "Pablo Fernandez"
+  email: "pf@endinv.com"
+  bio: "Gerente Fondo Alerce VC. Apoyando emprendimientos con impacto global."
+  avatar: "https://bioemprendedor.cl/static/pablofernandez-2V5763.jpg"
+  uri: "http://www.endinv.com/"
+  linkedin: "pablofernandezg"
