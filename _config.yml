@@ -81,17 +81,19 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/img/avatar-bioemprendedor.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : "Organization" # Person or Organization (defaults to Person)
   name                   : "BIOEMPRENDEDOR.cl" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/bioemp_cl"
+    - "https://github.com/bioemprendedorcl"
 
 # Analytics
 analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
+  provider               : "custom" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-121115287-1"
     anonymize_ip         : "true" # true, false (default)
@@ -104,7 +106,7 @@ author:
   bio              : "Un espacio de contenido, experiencias y aprendizajes para bioemprendedores. Hecho para ustedes por Eduardo Zavala y Diego Belmar."
   location         : "Santiago, Chile."
   email            : "hola@bioemprendedor.cl"
-  uri              :
+  uri              : "https://bioemprendedor.cl"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :

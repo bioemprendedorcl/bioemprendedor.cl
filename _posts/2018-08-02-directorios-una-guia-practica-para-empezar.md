@@ -16,7 +16,7 @@ tags:
   - sociedad
 ---
 
-**Nota de Bioemprendedor.cl:** Esta es la primera publicación de un invitado. Agradecemos el tremendo aporte de Pablo Fernandez, del Gerente del Fondo de Inversión Alerce. Gracias a esto, tenemos una guía muy útil de lo que realmente espera un inversionista del directorio de un bioemprendimiento. ¡Esperamos que les sirva y no olviden que seguimos recibiendo sus colaboraciones!
+**Nota de Bioemprendedor.cl:** Esta es la primera publicación de un invitado. Agradecemos el tremendo aporte de Pablo Fernandez, Gerente del Fondo de Inversión Alerce. Gracias a esto, tenemos una guía muy útil de lo que realmente espera un inversionista del directorio de un bioemprendimiento. ¡Esperamos que les sirva y no olviden que seguimos recibiendo sus colaboraciones! 😉
 {: .notice--warning}
 
 Una reunión de directorio puede ser una excelente oportunidad para un CEO donde desarrollar una estrategia, o una fuente de estrés y angustia que lo desenfoque de sus objetivos principales.
@@ -108,6 +108,6 @@ Esta sección se refiere a los aspectos principales de lo que esta ocurriendo de
 ### Sección 6: Foco de la reunión
 En esta sección se deben tratar 2 temas (máximo 3) para discutir. Se debe considerar establecer el punto principal y algunos elementos claves asociados. Si el tema lo requiere, es importante tener láminas de apoyo para ilustrar mejor el problema.
 
-[<i class="far fa-cloud-download"></i> Descargar guía en formato PDF](https://bioemprendedor.cl/static/Directorio-Una-guia-practica-yCPZF9.pdf){: .btn .btn--success .btn--large}
+[<i class="far fa-cloud-download"></i> Descargar guía en PDF](https://bioemprendedor.cl/static/Directorio-Una-guia-practica-yCPZF9.pdf){: .btn .btn--success .btn--large}
 
 [^1]:	Fuentes: [Sequoia: “Preparing a Board Deck”](https://www.sequoiacap.com/article/preparing-a-board-deck/) / [Alexander Jarvis in Medium.com](https://medium.com/@adjblog/board-deck-template-for-seed-stage-startups-e347900549c2) / [Next View Ventures: “Startup board deck templates”](https://nextviewventures.com/blog/free-startup-board-decks-template/).
