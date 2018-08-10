@@ -1,5 +1,5 @@
 ---
-title:  "¿Porqué el bioemprendimiento es el especial del grupo?"
+title:  "¿Por qué el bioemprendimiento es el especial del grupo?"
 excerpt: "El bioemprendimiento tiene ciertas características que lo hacen distinto al emprendimiento en otras áreas. ¿Cuales son?"
 author: Diego Belmar
 header:
