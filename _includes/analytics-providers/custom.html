@@ -20,5 +20,18 @@ clicky_site_ids.push(101134548);
   gtag('js', new Date());
 
   gtag('config', 'UA-121115287-1');
-  ga('create', 'UA-121115287-1', {'sitespeedsamplerate': 100});
+
+  // Feature detects Navigation Timing API support.
+  if (window.performance) {
+  // Gets the number of milliseconds since page load
+  // (and rounds the result since the value must be an integer).
+  var timeSincePageLoad = Math.round(performance.now());
+
+  // Sends the timing event to Google Analytics.
+  gtag('event', 'timing_complete', {
+    'name': 'load',
+    'value': timeSincePageLoad,
+    'event_category': 'JS Dependencies'
+  });
+}
 </script>
