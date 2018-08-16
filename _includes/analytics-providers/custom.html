@@ -1,37 +1,9 @@
-<!-- Clicky Web Analytics -->
-<script type="text/javascript">
-var clicky_site_ids = clicky_site_ids || [];
-clicky_site_ids.push(101134548);
-(function() {
-  var s = document.createElement('script');
-  s.type = 'text/javascript';
-  s.async = true;
-  s.src = '//static.getclicky.com/js';
-  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
-})();
-</script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101134548ns.gif" /></p></noscript>
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121115287-1"></script>
+<!-- Google Analytics -->
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
 
-  gtag('config', 'UA-121115287-1');
-
-  // Feature detects Navigation Timing API support.
-  if (window.performance) {
-  // Gets the number of milliseconds since page load
-  // (and rounds the result since the value must be an integer).
-  var timeSincePageLoad = Math.round(performance.now());
-
-  // Sends the timing event to Google Analytics.
-  gtag('event', 'timing_complete', {
-    'name': 'load',
-    'value': timeSincePageLoad,
-    'event_category': 'JS Dependencies'
-  });
-}
+ga('create', 'UA-121115287-1', {'cookieDomain': 'bioemprendedor.cl', 'siteSpeedSampleRate': 100});
+ga('send', 'pageview');
 </script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+<!-- End Google Analytics -->
