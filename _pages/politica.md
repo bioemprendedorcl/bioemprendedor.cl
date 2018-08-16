@@ -36,15 +36,15 @@ El texto legal completo de la licencia se encuentra disponible en [https://creat
 
 Este Aviso de Privacidad te informa sobre el tipo de datos recolectados a través de este sitio web, en adelante el “Sitio” y de como nosotros usaremos y protegeremos la información aquí recolectada.
 
-​### Aplicaciones de este Aviso de Privacidad
+### ​Aplicación de esta política de privacidad
 
 Este Aviso de Privacidad aplica solo a la información recogida en este Sitio (www.bioemprendedor.cl) y no considera información que recolectamos a través de otros métodos o servicios, incluyendo sitios web nuestros u operados por nuestros afiliados, vendedores o socios. Algunas de estos últimos pueden tener sitios web que recogen información especial o de distintos tipos, las cuales requerirán políticas de privacidad diferentes. Dichos sitios web deberán advertir sobre ese hecho si fuera necesario.
 
-### Información Que Tú Nos Provees
+### Información que tú nos provees
 
 Podemos recoger y almacenar información personal que tú eliges proveernos voluntariamente cuando te pones en contacto con nosotros, como cuando nos envías un correo electrónico con una pregunta o un aporte para el sitio. La información personal puede incluir tu nombre, dirección laboral, número de teléfono o dirección de correo electrónico. Usamos la información recibida para poder responder a tus preguntas y comentarios. También podemos usar la información que tú provees para comunicarnos contigo sobre otros temas que creemos que pueden ser de tu interés.
 ​
-### Información Recogida de Modo Automático
+### Información recogida de modo automático
 
 Estamos comprometidos con hacer tu experiencia en nuestro sitio informativa y relevante. Para conseguir esto, mientras estás en nuestro Sitio recolectamos cierta información de manera automática, como tu dirección IP, el navegador web que estás usando, tu sistema operativo, URLs de referencia, información o acciones realizadas en el Sitio, cuántos usuarios visitaron nuestro Sitio y fechas y tiempo de permanencia. Recolectamos esta información de diferentes modos, explicados abajo.
 
@@ -54,17 +54,19 @@ Las cookies son una pequeña información de texto que queda en el disco duro de
 
 Tú tienes control sobre las Cookies y puedes rehusarte a compartirlas seleccionando la configuración adecuada en tu navegador. De todas maneras, al no aceptar o borrar el uso de Cookies, tu experiencia en nuestro Sitio se podrá ver afectada, es probable que no le saques el mejor partido. La mayoría de los navegadores te dirán como detener, ser notificado o inhabilitar el uso de Cookies nuevas (o borrar las existentes). Por favor, consulta la sección “Ayuda” de tu navegador para más información.
 
-### Faro web
+### Faros web (Web beacons)
 
-Un faro web (web beacon) es una pequeña imagen en el código de un sitio. Son usados con varios propósitos, incluyendo medir patrones de tráfico mientras los usuarios navegan o para determinar que contenido fue visualizado. Como en el caso de las Cookies, la información que los faros web colectan son datos agregados y no están asociados a ti como individuo, a menos que elijas comunicarte con nosotros vía correo electrónico.
+Un faro web es una pequeña imagen en el código de un sitio. Son usados con varios propósitos, incluyendo medir patrones de tráfico mientras los usuarios navegan o para determinar que contenido fue visualizado. Como en el caso de las Cookies, la información que los faros web colectan son datos agregados y no están asociados a ti como individuo, a menos que elijas comunicarte con nosotros vía correo electrónico.
 
-### Métricas Web
+### Métricas web
 
 También podremos usar una aplicación de análisis web de terceros como _Google Analytics_. Este usa Javascript y Cookies para ayudarnos a analizar como los usuarios navegan nuestro Sitio. Los datos generados por las Cookies nos informan sobre tu uso del Sitio (como tu dirección IP, las URL que visitas, la fecha y hora en que viste nuestras páginas). Estos servicios usarán esta información para monitorear tu uso del Sitio, compilando reportes de actividad para los administradores web y proveyendo otros servicios relacionados con la actividad de sitios y el uso de Internet. Esta información puede ser almacenada en servidores alocados en Estados Unidos. Como está explicado más arriba, puedes negarte al uso de Cookies seleccionando la configuración adecuada en tu navegador.
 
-Para más información sobre las políticas de privacidad de _Google Analytics_, por favor dirígete a http://www.google.com/analytics/learn/privacy.html. Puedes desactivar la recolección de datos de Google Analytics siguiendo las instrucciones del siguiente sitio web https://tools.google.com/dlpage/gaoptout?hl+en=GB.
+Para más información sobre las políticas de privacidad de _Google Analytics_, por favor dirígete a [http://www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html).
 
-### Como Usamos La Información Recolectada
+Puedes desactivar la recolección de datos de _Google Analytics_ siguiendo las instrucciones del siguiente sitio web [https://tools.google.com/dlpage/gaoptout?hl+en=GB](https://tools.google.com/dlpage/gaoptout?hl+en=GB).
+
+### Como usamos la información recolectada
 
 Podemos usar la información que obtenemos sobre ti para profundizar nuestra relación contigo y para otros propósitos, incluyendo:
 
@@ -77,7 +79,7 @@ Podemos usar la información que obtenemos sobre ti para profundizar nuestra rel
 - Cumplir con los requerimientos legales, los estándares de la industria y nuestras políticas.
 - Podremos usar información personal para otros propósitos adicionales, que serán identificados en el momento que se recolecten.
 
-### Compartiendo Información
+### Compartiendo información con terceros
 
 Nosotros no venderemos ni divulgaremos información personal que tengamos sobre ti, exceptuando casos descritos o cuando te lo avisemos en el momento que recolectamos la información.
 ​
@@ -87,7 +89,7 @@ Podremos divulgar información sobre ti si así lo pidiera la Ley, agentes de la
 
 Nos reservamos además el derecho a transferir información personal que tenemos sobre ti en el evento que vendamos o transfiramos todo o una porción de nuestros activos comerciales.
 
-### Transferencia de Datos
+### Transferencia de datos
 
 Podremos transferir la información recolectada en este Sitio a otros países en los cuales la información no fue recolectada originalmente. Esos países pueden no tener las mismas leyes de protección de datos que el país en el que fueron entregados los datos en principio. Al ingresar tus datos personales, aceptas esta transferencia. Cuando transfieres tu información a otros países, protegeremos esa información como está descrito en estas políticas.
 
@@ -95,7 +97,7 @@ Podremos transferir la información recolectada en este Sitio a otros países en
 
 La seguridad de la información es importante para nosotros y estamos comprometidos para aplicar medidas razonables para proteger la información personal que podamos recolectar. De todas maneras, de acuerdo a la naturaleza abierta inherente a Internet, no podemos garantizar que comunicaciones entre nosotros o información almacenada en este Sitio sea absolutamente segura.
 
-### Enlace a Otros Sitios Web
+### Enlace a otros sitios web
 
 Este Sitio puede proveer enlaces a otros sitios web para tu conveniencia e información. Estos sitios web pueden operar de manera independiente a nosotros. Los sitios enlazados pueden tener sus propios Avisos o Políticas de Privacidad, aconsejamos que los revises para entender mejor sus procedimientos para recolectar, usar y divulgar información personal. No somos responsables por el contenido de los sitios web enlazados, ningún uso de estos sitios, ni de sus prácticas referidas a la privacidad.
 
@@ -103,7 +105,7 @@ Este Sitio puede proveer enlaces a otros sitios web para tu conveniencia e infor
 
 Este Sitio no está pensado para niños y nosotros no solicitamos datos o nos comunicamos con niños menores a 13 años de manera consciente. Además, este Sitio no está destinado a personas incapacitadas y nosotros no les solicitamos información personal a sabiendas. Si tú te enteras de que tu hijo o cualquier niño a tu cuidado, o una persona que no está capacitada de proveer un consentimiento válido, nos ha entregado información sin el consentimiento de sus padres o tutores, por favor contáctanos como describimos debajo.
 
-### Acceso, Actualización y Tus Elecciones
+### Acceso, actualización y tus elecciones
 
 En cualquier momento puedes decirnos que no te enviemos comunicaciones de marketing por correo electrónico clickeando en el enlace “desuscribir” dentro del contenido recibido o contactándonos como se indica debajo.
 
