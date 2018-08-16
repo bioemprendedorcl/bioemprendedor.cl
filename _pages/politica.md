@@ -13,7 +13,9 @@ toc: true
 toc_label: "Tabla de contenidos"
 ---
 
-Al navegar y utilizar este sitio web (_bioemprendedor.cl_) aceptas y asumes las siguientes políticas:
+## Consentimiento
+
+Al navegar o utilizar este Sitio (bioemprendedor.cl) asumes respetar la licencia de contenido anunciada y estás dando el consentimiento para procesar tu información personal como se describe en estas políticas.
 
 ## Licencia de contenido
 
@@ -32,15 +34,80 @@ El texto legal completo de la licencia se encuentra disponible en [https://creat
 
 ## Política de privacidad y datos personales
 
-Este sitio web solicitará datos personales solo cuando sea necesario identificar al usuario, es decir, principalmente en nuestro formulario de contacto.
+Este Aviso de Privacidad te informa sobre el tipo de datos recolectados a través de este sitio web, en adelante el “Sitio” y de como nosotros usaremos y protegeremos la información aquí recolectada.
 
-Los datos personales solicitados no serán compartidos, ni vendidos, no cedidos de ninguna forma nunca a nadie. Punto. Odiamos el SPAM tanto como cualquier mortal.
+​### Aplicaciones de este Aviso de Privacidad
 
-Esta política no aplica a los servicios de terceros que utilizamos. Ellos mantienen sus propias políticas de privacidad donde se incluyen, pero no limitan a, los siguientes:
+Este Aviso de Privacidad aplica solo a la información recogida en este Sitio (www.bioemprendedor.cl) y no considera información que recolectamos a través de otros métodos o servicios, incluyendo sitios web nuestros u operados por nuestros afiliados, vendedores o socios. Algunas de estos últimos pueden tener sitios web que recogen información especial o de distintos tipos, las cuales requerirán políticas de privacidad diferentes. Dichos sitios web deberán advertir sobre ese hecho si fuera necesario.
 
-- Google Analytics: https://policies.google.com/privacy?hl=es
-- Disqus: https://help.disqus.com/terms-and-policies/disqus-privacy-policy
-- Cloudflare: https://www.cloudflare.com/privacypolicy/
+### Información Que Tú Nos Provees
+
+Podemos recoger y almacenar información personal que tú eliges proveernos voluntariamente cuando te pones en contacto con nosotros, como cuando nos envías un correo electrónico con una pregunta o un aporte para el sitio. La información personal puede incluir tu nombre, dirección laboral, número de teléfono o dirección de correo electrónico. Usamos la información recibida para poder responder a tus preguntas y comentarios. También podemos usar la información que tú provees para comunicarnos contigo sobre otros temas que creemos que pueden ser de tu interés.
+​
+### Información Recogida de Modo Automático
+
+Estamos comprometidos con hacer tu experiencia en nuestro sitio informativa y relevante. Para conseguir esto, mientras estás en nuestro Sitio recolectamos cierta información de manera automática, como tu dirección IP, el navegador web que estás usando, tu sistema operativo, URLs de referencia, información o acciones realizadas en el Sitio, cuántos usuarios visitaron nuestro Sitio y fechas y tiempo de permanencia. Recolectamos esta información de diferentes modos, explicados abajo.
+
+### Cookies
+
+Las cookies son una pequeña información de texto que queda en el disco duro de tu computador o teléfono cuando visitas algunos sitios. Esta tecnología mantiene información que el sitio puede necesitar para personalizar tu experiencia. Las cookies pueden también ser usadas por seguridad y para guardar información estadística del Sitio, como qué páginas son más visitadas, qué se descarga y cuáles son los caminos que toman los visitantes al navegar.
+
+Tú tienes control sobre las Cookies y puedes rehusarte a compartirlas seleccionando la configuración adecuada en tu navegador. De todas maneras, al no aceptar o borrar el uso de Cookies, tu experiencia en nuestro Sitio se podrá ver afectada, es probable que no le saques el mejor partido. La mayoría de los navegadores te dirán como detener, ser notificado o inhabilitar el uso de Cookies nuevas (o borrar las existentes). Por favor, consulta la sección “Ayuda” de tu navegador para más información.
+
+### Faro web
+
+Un faro web (web beacon) es una pequeña imagen en el código de un sitio. Son usados con varios propósitos, incluyendo medir patrones de tráfico mientras los usuarios navegan o para determinar que contenido fue visualizado. Como en el caso de las Cookies, la información que los faros web colectan son datos agregados y no están asociados a ti como individuo, a menos que elijas comunicarte con nosotros vía correo electrónico.
+
+### Métricas Web
+
+También podremos usar una aplicación de análisis web de terceros como _Google Analytics_. Este usa Javascript y Cookies para ayudarnos a analizar como los usuarios navegan nuestro Sitio. Los datos generados por las Cookies nos informan sobre tu uso del Sitio (como tu dirección IP, las URL que visitas, la fecha y hora en que viste nuestras páginas). Estos servicios usarán esta información para monitorear tu uso del Sitio, compilando reportes de actividad para los administradores web y proveyendo otros servicios relacionados con la actividad de sitios y el uso de Internet. Esta información puede ser almacenada en servidores alocados en Estados Unidos. Como está explicado más arriba, puedes negarte al uso de Cookies seleccionando la configuración adecuada en tu navegador.
+
+Para más información sobre las políticas de privacidad de _Google Analytics_, por favor dirígete a http://www.google.com/analytics/learn/privacy.html. Puedes desactivar la recolección de datos de Google Analytics siguiendo las instrucciones del siguiente sitio web https://tools.google.com/dlpage/gaoptout?hl+en=GB.
+
+### Como Usamos La Información Recolectada
+
+Podemos usar la información que obtenemos sobre ti para profundizar nuestra relación contigo y para otros propósitos, incluyendo:
+
+- Enviarte newsletters y actualizaciones sobre la industria.
+- Procesar, evaluar y responder a tus preguntas y requerimientos.
+- Verificar tu identidad para asegurar la seguridad de los otros motivos listados aquí.
+- Operar, evaluar y mejorar nuestro negocio (incluyendo desarrollar nuevos servicios, manejar nuestras comunicaciones, aprender de nuestros visitantes, analizar nuestros servicios y facilitar la funcionalidad de nuestro Sitio).
+- Realizar análisis de dato (incluyendo la anonimación de la información personal).
+- Hacer cumplir nuestros Términos y Condiciones
+- Cumplir con los requerimientos legales, los estándares de la industria y nuestras políticas.
+- Podremos usar información personal para otros propósitos adicionales, que serán identificados en el momento que se recolecten.
+
+### Compartiendo Información
+
+Nosotros no venderemos ni divulgaremos información personal que tengamos sobre ti, exceptuando casos descritos o cuando te lo avisemos en el momento que recolectamos la información.
+​
+Podemos compartir tu información dentro de entidades relacionadas a Bioemprendedor.cl. También podremos compartir información entregada por los visitantes de nuestro Sitio con proveedores que entregan servicios en nuestro nombre, incluyendo alojamiento web u operación del Sitio, llevar a cabo tus requerimientos, responder tus consultas y analizar datos. Por contrato, requerimos a estos proveedores que mantengan asegurada tu privacidad y datos personales en los procesos que son a nuestro nombre.
+
+Podremos divulgar información sobre ti si así lo pidiera la Ley, agentes de la ley, autoridades u otros oficiales del Gobierno, para proteger o defender nuestros derechos legales o con el objetivo de investigar, prevenir o tomar acción en lo referido a actividades ilegales, sospecha de fraude o violación de nuestros Términos y Condiciones por usar el Sitio u otras políticas aplicables.
+
+Nos reservamos además el derecho a transferir información personal que tenemos sobre ti en el evento que vendamos o transfiramos todo o una porción de nuestros activos comerciales.
+
+### Transferencia de Datos
+
+Podremos transferir la información recolectada en este Sitio a otros países en los cuales la información no fue recolectada originalmente. Esos países pueden no tener las mismas leyes de protección de datos que el país en el que fueron entregados los datos en principio. Al ingresar tus datos personales, aceptas esta transferencia. Cuando transfieres tu información a otros países, protegeremos esa información como está descrito en estas políticas.
+
+### Seguridad
+
+La seguridad de la información es importante para nosotros y estamos comprometidos para aplicar medidas razonables para proteger la información personal que podamos recolectar. De todas maneras, de acuerdo a la naturaleza abierta inherente a Internet, no podemos garantizar que comunicaciones entre nosotros o información almacenada en este Sitio sea absolutamente segura.
+
+### Enlace a Otros Sitios Web
+
+Este Sitio puede proveer enlaces a otros sitios web para tu conveniencia e información. Estos sitios web pueden operar de manera independiente a nosotros. Los sitios enlazados pueden tener sus propios Avisos o Políticas de Privacidad, aconsejamos que los revises para entender mejor sus procedimientos para recolectar, usar y divulgar información personal. No somos responsables por el contenido de los sitios web enlazados, ningún uso de estos sitios, ni de sus prácticas referidas a la privacidad.
+
+### Niños
+
+Este Sitio no está pensado para niños y nosotros no solicitamos datos o nos comunicamos con niños menores a 13 años de manera consciente. Además, este Sitio no está destinado a personas incapacitadas y nosotros no les solicitamos información personal a sabiendas. Si tú te enteras de que tu hijo o cualquier niño a tu cuidado, o una persona que no está capacitada de proveer un consentimiento válido, nos ha entregado información sin el consentimiento de sus padres o tutores, por favor contáctanos como describimos debajo.
+
+### Acceso, Actualización y Tus Elecciones
+
+En cualquier momento puedes decirnos que no te enviemos comunicaciones de marketing por correo electrónico clickeando en el enlace “desuscribir” dentro del contenido recibido o contactándonos como se indica debajo.
+
+Sujetos a la ley, tienes el derecho a recibir información sobre los datos personal que tenemos acerca de ti, actualizar, corregir inexactitudes y tener la información modificada o borrada, según corresponda. El derecho de acceder a tu información personal está limitada en algunas circunstancias por requerimientos locales de la Ley. Para actualizar tu información o pedirnos que te removamos de nuestra lista de correos por favor escríbenos a _hola@bioemprendedor.cl_. Para tu protección, podremos requerir una prueba de tu identidad, incluyendo verificaciones acordes y confirmación de que tu eres la persona válida para pedir acceso, antes de entregarte la información.
 
 ## Política de comentarios
 
@@ -61,40 +128,6 @@ LOs autores del sitio se reservan el derecho de eliminar o modificar (si fuese e
 
 En el caso de que alguien incumpla estas condiciones de forma reiterada se podrán aplicar sistemas de bloqueo de dicho usuario en los comentarios.
 
-## Política de cookies
-
-Esta web utiliza “cookies” propias y de terceros para ofrecerle una mejor experiencia y servicio. Al navegar o utilizar nuestros servicios el usuario acepta el uso que hacemos de las “cookies”. Sin embargo el usuario tiene la opción de impedir la generación de “cookies” y la eliminación de las mismas mediante la selección de la correspondiente opción en su navegador. En caso de bloquear el uso de “cookies” en su navegador es posible que algunos servicios o funcionalidades de la página web no estén disponibles.
-
-### ¿Qué tipos de cookies utilizamos?
-
-Esta web utiliza tanto 'cookies' temporales de sesión como 'cookies' permanentes. Las 'cookies' de sesión almacenan datos únicamente mientras el usuario accede a la web y las 'cookies' permanentes almacenan los datos en el terminal para que sean accedidos y utilizados en más de una sesión.
-
-Según la finalidad para la que se traten los datos obtenidos a través de las 'cookies', este sitio web podría utilizar:
-
-#### Cookies de mejora del rendimiento
-
-Este tipo de cookies conserva sus preferencias para ciertas herramientas o servicios para que no tenga que reconfigurarlos cada vez que visita nuestro sitio y, en algunos casos, pueden ser aportadas por terceros. Algunos ejemplos son: volumen de los reproductores audiovisuales, preferencias de ordenación de artículos o velocidades de reproducción de vídeo compatibles. En el caso de comercio electrónico, permiten mantener información sobre su cesta de la compra.
-
-#### Cookies de análisis estadístico
-
-Son aquellas que, bien tratadas por nosotros o por terceros, permiten cuantificar el número de visitantes y analizar estadísticamente la utilización que hacen los usuarios de nuestros servicios. Gracias a ello podemos estudiar la navegación por nuestra página web, y mejorar así la oferta de productos o servicios que ofrecemos.
-
-#### Cookies de geolocalización
-
-Estas cookies son usadas por programas que intentan localizar geográficamente la situación del ordenador, smartphone, tableta o televisión conectada, para de manera totalmente anónima ofrecerle contenidos y servicios más adecuados.
-
-#### Cookies de registro
-
-Cuando usted se registra en nuestro portal, se generan cookies que le identifican como usuario registrado e indican cuándo usted se ha identificado en el portal. Estas cookies son utilizadas para identificar su cuenta de usuario y sus servicios asociados. Estas cookies se mantienen mientras usted no abandone la cuenta, cierre el navegador o apague el dispositivo. Estas cookies pueden ser utilizadas en combinación con datos analíticos para identificar de manera individual sus preferencias en nuestro portal.
-
-#### Cookies publicitarias
-
-Son aquéllas que, bien tratadas por nosotros o por terceros, permiten gestionar eficazmente los espacios publicitarios de nuestro sitio web, adecuando el contenido del anuncio al contenido del servicio solicitado o al uso que realice de nuestra página web. Gracias a ella podemos conocer sus hábitos de navegación en internet y mostrarle publicidad relacionada con su perfil de navegación.
-
-#### Otras cookies de terceros
-
-En algunas de nuestras páginas se pueden instalar cookies de terceros que permitan gestionar y mejorar los servicios que éstos ofrecen. Un ejemplo de este uso son los enlaces a las redes sociales que permiten compartir nuestros contenidos.
-
 ## Fecha de actualización
 
-Estas políticas han sido actualizadas y se encuentran vigentes desde el **1 de Julio de 2018**.
+Estas políticas han sido actualizadas y se encuentran vigentes desde el **15 de Agosto de 2018**.
