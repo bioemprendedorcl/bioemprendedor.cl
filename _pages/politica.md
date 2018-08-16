@@ -62,7 +62,7 @@ Un faro web es una pequeña imagen en el código de un sitio. Son usados con var
 
 También podremos usar una aplicación de análisis web de terceros como _Google Analytics_. Este usa Javascript y Cookies para ayudarnos a analizar como los usuarios navegan nuestro Sitio. Los datos generados por las Cookies nos informan sobre tu uso del Sitio (como tu dirección IP, las URL que visitas, la fecha y hora en que viste nuestras páginas). Estos servicios usarán esta información para monitorear tu uso del Sitio, compilando reportes de actividad para los administradores web y proveyendo otros servicios relacionados con la actividad de sitios y el uso de Internet. Esta información puede ser almacenada en servidores alocados en Estados Unidos. Como está explicado más arriba, puedes negarte al uso de Cookies seleccionando la configuración adecuada en tu navegador.
 
-Para más información sobre las políticas de privacidad de _Google Analytics_, por favor dirígete a [http://www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html).
+_Google Analytics_ se rige bajo las Políticas de Privacidad de Google. Para más información sobre las políticas de privacidad de _Google Analytics_, por favor dirígete a [https://policies.google.com/privacy?hl=es](https://policies.google.com/privacy?hl=es).
 
 Puedes desactivar la recolección de datos de _Google Analytics_ siguiendo las instrucciones del siguiente sitio web [https://tools.google.com/dlpage/gaoptout?hl+en=GB](https://tools.google.com/dlpage/gaoptout?hl+en=GB).
 
@@ -70,7 +70,7 @@ Puedes desactivar la recolección de datos de _Google Analytics_ siguiendo las i
 
 Podemos usar la información que obtenemos sobre ti para profundizar nuestra relación contigo y para otros propósitos, incluyendo:
 
-- Enviarte newsletters y actualizaciones sobre la industria.
+- Enviarte _newsletters_ y actualizaciones sobre la industria.
 - Procesar, evaluar y responder a tus preguntas y requerimientos.
 - Verificar tu identidad para asegurar la seguridad de los otros motivos listados aquí.
 - Operar, evaluar y mejorar nuestro negocio (incluyendo desarrollar nuevos servicios, manejar nuestras comunicaciones, aprender de nuestros visitantes, analizar nuestros servicios y facilitar la funcionalidad de nuestro Sitio).
