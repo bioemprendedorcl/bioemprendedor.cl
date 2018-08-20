@@ -39,6 +39,6 @@ Si estás bioemprendiendo y tienes duda de cómo definir el éxito de tu compañ
 
 Lo que sí, debe quedar claro que **nada de lo anterior quita el hecho que la venta será el principal validador de la compañía**, pero la invitación es a mirar otras métricas mientras te dedicas a vender, vender, vender y vender 😉.
 
-[^1] [Fortune.com - The Unicorns List](http://fortune.com/unicorns/)
+[^1]: [Fortune.com - The Unicorns List](http://fortune.com/unicorns/)
 
-[^2] [12 Awesome T-Shirts That Support Some Amazing Causes](https://www.causeartist.com/12-awesome-t-shirts-support-amazing-causes/)
+[^2]: [12 Awesome T-Shirts That Support Some Amazing Causes](https://www.causeartist.com/12-awesome-t-shirts-support-amazing-causes/)
