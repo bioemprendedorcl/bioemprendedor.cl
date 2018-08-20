@@ -27,7 +27,7 @@ Recientemente leí un artículo que describía 12 compañías de Estados Unidos 
 
 # Redefinamos el concepto de éxito
 
-Si aplicamos esto a un bioemprendimiento está absolutamente claro que su éxito estará condicionado a las ventas que alcancen, pero, ¿también no sería bueno desde ya aplicar otras métricas para definir el éxito? En Done Properly Co. hemos definido las siguientes:
+Si aplicamos esto a un bioemprendimiento está absolutamente claro que su éxito estará condicionado a las ventas que alcancen, pero, ¿también no sería bueno desde ya aplicar otras métricas para definir el éxito? En _Done Properly Co._ hemos definido las siguientes:
 
 1. **Coherencia entre lo que queremos y lo que hacemos:** ¿De qué nos sirve querer ser la mejor compañía del mundo si nuestros productos no transmiten esas ganas de querer cambiar las cosas?
 
