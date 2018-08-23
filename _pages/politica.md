@@ -19,7 +19,7 @@ Al navegar o utilizar este Sitio (bioemprendedor.cl) asumes respetar la licencia
 
 ## Licencia de contenido
 
-El contenido publicado en este sitio web se comparte con una licencia de contenido Creative Commons del tipo **"Atribución 4.0 Internacional"** (CC-BY-4.0). En resumen (y no como sustituto) los visitantes son libres de:
+A menos que se indique especificamente lo contrario, el contenido publicado en este sitio web se comparte con una licencia de contenido Creative Commons del tipo **"Atribución 4.0 Internacional"** (CC-BY-4.0). En resumen (y no como sustituto) los visitantes son libres de:
 
 - **Compartir** — copiar y redistribuir el material en cualquier medio o formato.
 - **Adaptar** — remezclar, transformar y construir a partir del material para cualquier propósito, incluso comercialmente.
@@ -28,7 +28,7 @@ Esto bajo los siguientes términos:
 
 - **Atribución** — Usted debe dar crédito de manera adecuada, brindar un enlace a la licencia, e indicar si se han realizado cambios. Puede hacerlo en cualquier forma razonable, pero no de forma tal que sugiera que usted o su uso tienen el apoyo de la licenciante.
 
-El texto legal completo de la licencia se encuentra disponible en [https://creativecommons.org/licenses/by/4.0/deed.es][e44cb488]
+El texto legal completo de la licencia, que se considera parte integra de esta licencia de contenidos, se encuentra disponible en [https://creativecommons.org/licenses/by/4.0/deed.es][e44cb488]
 
 [e44cb488]: https://creativecommons.org/licenses/by/4.0/deed.es "Creative Commons"
 
@@ -132,4 +132,6 @@ En el caso de que alguien incumpla estas condiciones de forma reiterada se podr�
 
 ## Fecha de actualización
 
-Estas políticas han sido actualizadas y se encuentran vigentes desde el **15 de Agosto de 2018**.
+Estas políticas han sido actualizadas y se encuentran vigentes desde el **23 de Agosto de 2018**. El historial de cambios y versiones anteriores se encuentran disponibles en nuestro [repositorio en Github][bcb8c6fb].
+
+[bcb8c6fb]: https://github.com/bioemprendedorcl/bioemprendedor.cl/commits/master/_pages/politica.md "Historial de versiones de página de políticas del sitio Bioemprendedor.cl"
