@@ -16,7 +16,7 @@ Eduardo Zavala:
   twitter: "edzavalap"
   github: "edzavala"
 
-# INVITADOS
+# INVITADOS ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Pablo Fernandez:
   name: "Pablo Fernandez"
   email: "pf@endinv.com"
@@ -24,3 +24,12 @@ Pablo Fernandez:
   avatar: "https://bioemprendedor.cl/static/pablofernandez-2V5763.jpg"
   uri: "http://www.endinv.com/"
   linkedin: "pablofernandezg"
+
+Patricia Rodil:
+  name: "Patricia Rodil"
+  email: "paty@mikros.com.mx"
+  bio: "Bióloga molecular. La ciencia y la salud son mi pasión, amo el hummus. Fundadora de www.mikros.com.mx."
+  avatar: "https://bioemprendedor.cl/static/patriciarodil-kcgCST.jpg"
+  uri: "http://www.mikros.com.mx"
+  twitter: "patorodil"
+  instagram: "paty_rodil"
