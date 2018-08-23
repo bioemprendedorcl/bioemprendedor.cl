@@ -36,8 +36,8 @@ Lo que más me sorprendía sobre Theranos era que habían pasado 10 años hacien
 Pero más adelante cuando vi la TED Talk de Elizabeth Holmes algo me pareció extraño. Ella me pareció extraña. Pero no era eso. Tuve que ver la charla como 4 veces para darme cuenta que en ningún momento mencionó la tecnología tan maravillosa en la que estaba trabajando.
 
 {% include video id="pz2AbAuk15Y" provider="youtube" %}
-Charla de Elizabeth Holmes en TEDMED 2014
-{: .notice--primary}
+-- _Charla de Elizabeth Holmes en TEDMED 2014_ --
+{: .text-center}
 
 Conozco a muchos científicos y la realidad es que a todos nos gusta hablar de nuestro trabajo aunque nadie nos entienda. No se me hacía lógico que trabajando en algo tan increíble, esta mujer no sintiera la necesidad de compartirlo con nadie. Patentes, propiedad intelectual, secretos industriales… todo eso lo entiendo. ¿Pero, la falta total de emoción por compartir algo que parecía tan emocionante? Eso, más la falta de publicaciones en revistas científicas y su nula asistencia a congresos del área me pareció raro. Supuse que se podría deber a su falta de experiencia en el ámbito científico.
 
@@ -55,19 +55,19 @@ Lastimosamente, lo que nos dejó Theranos fue el miedo a creer que realmente exi
 
 Creo que los científicos deberíamos:
 
-1. Aprender a vender, no sólo un producto, también nuestras ideas. Vender no es denigrante, lograr que alguien realmente quiera lo que ofrecemos debería verse como un orgullo.
-2. Investigar los términos y los alcances de la inversión y los diferentes tipos de inversionistas. Dedicarle tanto tiempo a esto como el que le dedicamos a hacer experimentos.
-3. Salir del laboratorio; ver lo que la gente ve, escuchar lo que la gente escucha, entender lo que la gente quiere.
-4. Soltar nuestro ego. Lo peor es escuchar a personas que no saben sobre nuestro trabajo, opinar sobre él. Pero si abrimos un poco la mente, tal vez recibamos retroalimentación e ideas interesantes de personas de las que nunca lo hubiéramos esperado.
-5. Hablar normal. Dejar los tecnicismos. Para compartir ideas con otros científicos es esencial, pero al hablar con otros no nos hace parecer más inteligentes, sólo más presuntuosos.
+1. **Aprender a vender, no sólo un producto, también nuestras ideas.** Vender no es denigrante, lograr que alguien realmente quiera lo que ofrecemos debería verse como un orgullo.
+2. **Investigar los términos y los alcances de la inversión y los diferentes tipos de inversionistas.** Dedicarle tanto tiempo a esto como el que le dedicamos a hacer experimentos.
+3. **Salir del laboratorio**; ver lo que la gente ve, escuchar lo que la gente escucha, entender lo que la gente quiere.
+4. **Soltar nuestro ego.** Lo peor es escuchar a personas que no saben sobre nuestro trabajo, opinar sobre él. Pero si abrimos un poco la mente, tal vez recibamos retroalimentación e ideas interesantes de personas de las que nunca lo hubiéramos esperado.
+5. **Hablar normal.** Dejar los tecnicismos. Para compartir ideas con otros científicos es esencial, pero al hablar con otros no nos hace parecer más inteligentes, sólo más presuntuosos.
 
 Por otro lado, a mí me gustaría ver que los inversionistas y mentores:
 
-1. Dejaran de creer la historia del fundador de 20 años que se salió de la escuela y tiene la idea que revolucionará la biotecnología. Los grandes fundadores de empresas exitosas en el área suelen ser personas con maestrías y doctorados y que mantienen contacto constante con la academia.
-2. Pensaran a largo plazo. Al menos en Latinoamérica lo que he visto (y muchos conocidos afirman lo mismo) es que los inversionistas buscan obtener retornos inmediatos, o al menos a muy corto plazo. En biotecnología eso no va a suceder; pero los retornos pueden ser enormes si se piensa a futuro.
-3. No obligaran a los emprendedores a vender de inmediato. Si bien un negocio es un negocio; distraer al equipo en la etapa de desarrollo para ponerlos a vender, lo único que va a provocar es que el producto propuesto nunca llegue a concretarse.
-4. Apoyaran a emprendimientos sin un producto listo. En biotecnología, se necesita tiempo para desarrollo, se necesitan recursos humanos calificados y se necesita equipo. Sí, la inversión inicial es alta pero lo vale. No se puede esperar invertir lo mismo para crear un producto en biología sintética que para crear un software o una app.
-5. Intentaran entender el fundamento de la tecnología. Si, como propuse arriba, los científicos deberíamos investigar más sobre inversión, ventas, administración, etc. Sería ideal que los inversionistas y los mentores buscaran también entender sobre qué hablamos nosotros cuando decimos “gen”, “CRISPR” o “microRNA”.
+1. **Dejaran de creer la historia del fundador de 20 años que se salió de la escuela y tiene la idea que revolucionará la biotecnología.** Los grandes fundadores de empresas exitosas en el área suelen ser personas con maestrías y doctorados y que mantienen contacto constante con la academia.
+2. **Pensaran a largo plazo.** Al menos en Latinoamérica lo que he visto (y muchos conocidos afirman lo mismo) es que los inversionistas buscan obtener retornos inmediatos, o al menos a muy corto plazo. En biotecnología eso no va a suceder; pero los retornos pueden ser enormes si se piensa a futuro.
+3. **No obligaran a los emprendedores a vender de inmediato.** Si bien un negocio es un negocio; distraer al equipo en la etapa de desarrollo para ponerlos a vender, lo único que va a provocar es que el producto propuesto nunca llegue a concretarse.
+4. **Apoyaran a emprendimientos sin un producto listo.** En biotecnología, se necesita tiempo para desarrollo, se necesitan recursos humanos calificados y se necesita equipo. Sí, la inversión inicial es alta pero lo vale. No se puede esperar invertir lo mismo para crear un producto en biología sintética que para crear un software o una app.
+5. **Intentaran entender el fundamento de la tecnología.** Si, como propuse arriba, los científicos deberíamos investigar más sobre inversión, ventas, administración, etc. Sería ideal que los inversionistas y los mentores buscaran también entender sobre qué hablamos nosotros cuando decimos “gen”, “CRISPR” o “microRNA”.
 
 Esta es sólo mi reflexión. No pretendo dar una lista exhaustiva ni saber la verdad absoluta; es sólo lo que alcanzo a entender. Lo que sí me queda claro ahora es que hay que dejar la historia de Theranos atrás y voltear hacia adelante; ver lo que sí existe y llevarlo a la realidad. Revolucionar la salud con propuestas de verdad.
 
