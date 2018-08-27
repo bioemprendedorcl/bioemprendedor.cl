@@ -14,7 +14,7 @@ tags:
   - biotecnología
 ---
 
-**Nota de Bioemprendedor.cl:** Seguimos con la racha de aportes de nuestros lectores. Hoy Horacio González nos envía su visión sobre un tema que ningún bioemprendedor debe olvidar nunca. Sabemos que este en un área que saca los saca de su zona de confort, por lo que esperamos que leer una publicación en base a la experiencia sea una ayuda para todos.
+**Nota de Bioemprendedor.cl:** Seguimos con la racha de aportes de nuestros lectores. Hoy Horacio González nos envía su visión sobre un tema que ningún bioemprendedor debe olvidar nunca. Sabemos que este en un área que saca de la zona de confort, por lo que esperamos que leer una publicación en base a la experiencia sea una ayuda para todos y permita enfrentar el tema de mejor manera.
 {: .notice--info}
 
 Durante casi una década de experiencia profesional relacionada con la transferencia tecnológica y los emprendimientos (a veces no tan) de base científica, he escuchado decir que no vale la pena gastar tiempo y recursos en solicitar una patente de invención.
