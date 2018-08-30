@@ -1,8 +1,10 @@
 # main links
 main:
+  - title: "Ecosistema"
+    url: /ecosistema/
   - title: "Nosotros"
     url: /nosotros/
-  - title: "Archivo"
-    url: /etiquetas/
   - title: "Contáctanos"
     url: /contacto/
+  - title: "Archivo"
+    url: /etiquetas/
