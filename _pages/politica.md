@@ -42,7 +42,7 @@ Este Aviso de Privacidad aplica solo a la información recogida en este Sitio (w
 
 ### Información que tú nos provees
 
-Podemos recoger y almacenar información personal que tú eliges proveernos voluntariamente cuando te pones en contacto con nosotros, como cuando nos envías un correo electrónico con una pregunta o un aporte para el sitio. La información personal puede incluir tu nombre, dirección laboral, número de teléfono o dirección de correo electrónico. Usamos la información recibida para poder responder a tus preguntas y comentarios. También podemos usar la información que tú provees para comunicarnos contigo sobre otros temas que creemos que pueden ser de tu interés.
+Podemos recoger y almacenar información personal que tú eliges proveernos voluntariamente cuando te pones en contacto con nosotros, como cuando nos envías un correo electrónico con una pregunta; o un aporte para el sitio; o contestas una de nuestras encuestas. La información personal puede incluir tu nombre, dirección laboral, número de teléfono o dirección de correo electrónico. Usamos la información recibida para poder responder a tus preguntas y comentarios. Si nos das tu consentimiento, también podemos usar la información que tú provees para comunicarnos contigo sobre otros temas que creemos que pueden ser de tu interés.
 ​
 ### Información recogida de modo automático
 
@@ -70,12 +70,12 @@ Puedes desactivar la recolección de datos de _Google Analytics_ siguiendo las i
 
 Podemos usar la información que obtenemos sobre ti para profundizar nuestra relación contigo y para otros propósitos, incluyendo:
 
-- Enviarte _newsletters_ y actualizaciones sobre la industria.
+- Enviarte _newsletters_ y actualizaciones sobre la industria o nuestro Sitio.
 - Procesar, evaluar y responder a tus preguntas y requerimientos.
 - Verificar tu identidad para asegurar la seguridad de los otros motivos listados aquí.
-- Operar, evaluar y mejorar nuestro negocio (incluyendo desarrollar nuevos servicios, manejar nuestras comunicaciones, aprender de nuestros visitantes, analizar nuestros servicios y facilitar la funcionalidad de nuestro Sitio).
-- Realizar análisis de dato (incluyendo la anonimación de la información personal).
-- Hacer cumplir nuestros Términos y Condiciones
+- Operar, evaluar y mejorar nuestro Sitio (incluyendo desarrollar nuevos servicios, manejar nuestras comunicaciones, aprender de nuestros visitantes, analizar nuestros servicios y facilitar la funcionalidad de nuestro Sitio).
+- Realizar análisis de datos (incluyendo la anonimación de la información personal).
+- Hacer cumplir nuestros Términos y Condiciones.
 - Cumplir con los requerimientos legales, los estándares de la industria y nuestras políticas.
 - Podremos usar información personal para otros propósitos adicionales, que serán identificados en el momento que se recolecten.
 
@@ -83,7 +83,7 @@ Podemos usar la información que obtenemos sobre ti para profundizar nuestra rel
 
 Nosotros no venderemos ni divulgaremos información personal que tengamos sobre ti, exceptuando casos descritos o cuando te lo avisemos en el momento que recolectamos la información.
 ​
-Podemos compartir tu información dentro de entidades relacionadas a Bioemprendedor.cl. También podremos compartir información entregada por los visitantes de nuestro Sitio con proveedores que entregan servicios en nuestro nombre, incluyendo alojamiento web u operación del Sitio, llevar a cabo tus requerimientos, responder tus consultas y analizar datos. Por contrato, requerimos a estos proveedores que mantengan asegurada tu privacidad y datos personales en los procesos que son a nuestro nombre.
+Podemos compartir algún información dentro de entidades relacionadas a Bioemprendedor.cl. También podremos compartir información entregada por los visitantes de nuestro Sitio con proveedores que entregan servicios en nuestro nombre, incluyendo alojamiento web u operación del Sitio, llevar a cabo tus requerimientos, responder tus consultas y analizar datos. Por contrato, requerimos a estos proveedores que mantengan asegurada tu privacidad y datos personales en los procesos que son a nuestro nombre.
 
 Podremos divulgar información sobre ti si así lo pidiera la Ley, agentes de la ley, autoridades u otros oficiales del Gobierno, para proteger o defender nuestros derechos legales o con el objetivo de investigar, prevenir o tomar acción en lo referido a actividades ilegales, sospecha de fraude o violación de nuestros Términos y Condiciones por usar el Sitio u otras políticas aplicables.
 
@@ -132,6 +132,6 @@ En el caso de que alguien incumpla estas condiciones de forma reiterada se podr�
 
 ## Fecha de actualización
 
-Estas políticas han sido actualizadas y se encuentran vigentes desde el **23 de Agosto de 2018**. El historial de cambios y versiones anteriores se encuentran disponibles en nuestro [repositorio en Github][bcb8c6fb].
+Estas políticas han sido actualizadas y se encuentran vigentes desde el **30 de Agosto de 2018**. El historial de cambios y versiones anteriores se encuentran disponibles en nuestro [repositorio en Github][bcb8c6fb].
 
 [bcb8c6fb]: https://github.com/bioemprendedorcl/bioemprendedor.cl/commits/master/_pages/politica.md "Historial de versiones de página de políticas del sitio Bioemprendedor.cl"
