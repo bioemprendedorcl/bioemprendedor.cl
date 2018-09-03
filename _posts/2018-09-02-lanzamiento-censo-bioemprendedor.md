@@ -48,6 +48,6 @@ Desde ya agradecemos la colaboración de:
 2. José Luis Callejas - Kura Biotec - Puerto Varas.
 3. Pablo Castro - UFRO - Temuco.
 4. Vinicius Coutinho - Dodo Biotech - Santiago.
-5. Ricardo Doberti - CORFO - Santiago.
+5. Ricardo Doberti - Santiago.
 
 Sabemos que nos faltan muchas zonas de Chile (_Sobre todo en el norte_), por lo que si te quieres comprometer a compartir y difundir en tu región escríbenos a _hola@bioemprendedor.cl_. Lo único que te podemos ofrecer es nuestro eterno agradecimiento e incluirte en nuestro listado de colaboradores.
