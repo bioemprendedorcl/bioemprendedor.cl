@@ -45,7 +45,9 @@ Como ya lo comentamos, hemos estado reclutando a embajadores que nos ayudarán a
 Desde ya agradecemos la colaboración de:
 
 1. Mario Rivas - INNBIO UdeC - Concepción.
-2. José Luis Calleja - Kura Biotec - Puerto Varas.
+2. José Luis Callejas - Kura Biotec - Puerto Varas.
 3. Pablo Castro - UFRO - Temuco.
+4. Vinicius Coutinho - Dodo Biotech - Santiago.
+5. Ricardo Doberti - CORFO - Santiago.
 
 Sabemos que nos faltan muchas zonas de Chile (_Sobre todo en el norte_), por lo que si te quieres comprometer a compartir y difundir en tu región escríbenos a _hola@bioemprendedor.cl_. Lo único que te podemos ofrecer es nuestro eterno agradecimiento e incluirte en nuestro listado de colaboradores.
