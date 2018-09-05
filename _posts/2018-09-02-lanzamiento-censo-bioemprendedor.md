@@ -21,9 +21,9 @@ La idea es encontrar a todas las personas que están detrás de los bioemprendim
 
 No está demás pedirles que **compartan esta publicación con todos los bioemprendedores que conozcan** y así podamos encontrar a la mayor cantidad de participantes posible. Esto debe ser trabajo colaborativo en su máxima expresión.
 
-Haciendo click en el botón de más abajo podrán ingresar al formulario.
+Haciendo click en el botón verde de más abajo podrán ingresar al formulario y completar con tus datos.
 
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdLj6VcBMn6O6BWzus25WTjvJxP5X_7RiyHL27t1qwnz64Hjg/viewform?usp=sf_link" class="btn btn--success btn--x-large" onClick="ga('send', 'event', 'Formulario', 'Click', 'Censo 2018', '0', 'false');"> <i class="far fa-clipboard-list"></i> Participar en Censo Bioemprendedor 2018</a></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdLj6VcBMn6O6BWzus25WTjvJxP5X_7RiyHL27t1qwnz64Hjg/viewform?usp=sf_link" class="btn btn--success btn--x-large" onclick="ga('send', 'event', 'click', 'formulario', 'censo2018', '0');"> <i class="far fa-clipboard-list"></i> ¡Quiero participar en el Censo Bioemprendedor 2018!</a></p>
 {: .text-center}
 
 ## Algunas consideraciones
@@ -32,8 +32,8 @@ Para hacer las cosas lo más transparente posible, aquí les dejamos algunas con
 
 1. Confiamos en que todos querrán completar nuestras preguntas de forma **consciente y veraz**. De verdad queremos que la información recolectada sea de calidad y un aporte real al ecosistema, pero para eso dependemos de todos.
 2. Esperamos también que cada persona conteste el formulario **una sola vez**. Si no puedes dormir porque hay una respuesta que quieras cambiar mejor avísanos a _hola@bioemprendedor.cl_ y lo solucionamos.
-3. El formulario se mantendrá abierto hasta el día **domingo 9 de septiembre de 2018 a las 22:00 hrs**. Vamos a evaluar si después de eso déjamos abierto el formulario de forma permanente para hacer análisis acumulativos cada cierto tiempo.
-3. Dentro de la semana del 10 de septiembre de 2018 compartiremos un análisis resumen de los resultados obtenidos.
+3. El formulario se mantendrá abierto hasta el día **domingo 16 de septiembre de 2018 a las 22:00 hrs**[^1]. Vamos a evaluar si después de eso déjamos abierto el formulario de forma permanente para hacer análisis acumulativos cada cierto tiempo.
+3. Dentro de la semana del 24 de septiembre de 2018 compartiremos un análisis resumen de los resultados obtenidos.
 4. Queremos hacer todo el esfuerzo posible por abarcar la mayor cantidad de participantes. Esto no significa que podamos garantizar que sea estadísticamente significativo o sea un estudio científico de tomo y lomo.
 5. Los datos personales que recolectemos mediante el formulario se regirán por nuestra [política de privacidad y datos personales](https://bioemprendedor.cl/politicas/).
 6. Al realizar un análisis de las respuestas recolectadas solo se harán públicos datos agregados y/o anónimos, los que nos reservamos el derecho a traspasar a iniciativas que con que logremos un acuerdo de colaboración porque consideramos sean un aporte real al ecosistema (Insistimos que esto no incluirá en ningún caso nombres y correos electrónicos).
@@ -51,3 +51,8 @@ Desde ya agradecemos la colaboración de:
 5. Ricardo Doberti - Santiago.
 
 Sabemos que nos faltan muchas zonas de Chile (_Sobre todo en el norte_), por lo que si te quieres comprometer a compartir y difundir en tu región escríbenos a _hola@bioemprendedor.cl_. Lo único que te podemos ofrecer es nuestro eterno agradecimiento e incluirte en nuestro listado de colaboradores.
+
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdLj6VcBMn6O6BWzus25WTjvJxP5X_7RiyHL27t1qwnz64Hjg/viewform?usp=sf_link" class="btn btn--success btn--x-large" onclick="ga('send', 'event', 'click', 'formulario', 'censo2018', '0');"> <i class="far fa-clipboard-list"></i> ¡Quiero participar en el Censo Bioemprendedor 2018!</a></p>
+{: .text-center}
+
+[^1]: **Actualización 05/09/2018:** Hemos extendido la fecha de cierre del Censo por clamor popular, especialmente para tener más tiempo para llegar a gente en regiones :wink:. ¡Nos disculpamos por no considerarlo antes!
