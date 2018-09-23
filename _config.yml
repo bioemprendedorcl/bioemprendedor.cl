@@ -26,7 +26,7 @@ teaser                   : "/assets/img/teaser.jpg" # path of fallback teaser im
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : "custom" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
     shortname            : "bioemprendedor" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
