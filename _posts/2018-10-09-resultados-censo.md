@@ -21,7 +21,7 @@ No miento que **nos desanimamos y quizás por eso perdimos el ritmo que veníamo
 
 ## Resultados de nuestro censo Bioemprendedor
 
-1. Al 16 de septiembre de 2018 recibimos **14 respuestas**. Por lo tanto, no consideren estos resultados como algo representativo del estado actual del ecosistema, es solo nuestra primera aproximación la cual sin duda mejoraremos.
+1. Al 16 de septiembre de 2018 recibimos **14 respuestas**. Por lo tanto, no consideren estos resultados como algo representativo del estado actual del ecosistema, es solo nuestra primera aproximación la cual **sin duda mejoraremos**.
 2. En términos geográficos, el 100% de los censados es de Santiago.
 3. En términos de rangos de edad, el 21,4% tiene entre 23 y 26 años; el 21,45 tiene entre 27 y 30 años; el 28,6% tiene entre 31 y 33 años; el 7,1% tiene entre 34 y 36 años; el 7,1% tiene entre 37 y 39 años; el 7,1% entre 40 y 42 años; y el 7,1% entre 56 y 59 años.
 4. Un 37,5% tiene estudios universitarios, mientras que otro 37,5% tiene estudios de magíster. 2 personas tienen el grado de doctor.
@@ -35,7 +35,7 @@ No miento que **nos desanimamos y quizás por eso perdimos el ritmo que veníamo
 12. Un 64,3% no cree que exista un entorno de financiamiento propicio para bioemprender en chile.
 13. Un 85,7% considera que no existe un organismo o institución que represente los intereses de los bioemprendedores chilenos, siendo solo mencionado CORFO y FIA.
 14. Respecto a la facilidad de bioemprender en Chile, de una escala de 1 (Imposible) a 7 (Facilidad total), el promedio de nota obtenido entre las respuestas es de 3.7, siendo la mediana la nota 4.
-15. El 87,5% considera que sí existen casos de éxito en Chile, siendo los más mencionados Phage Technologies, NotCo y Andes Biotechnologies.
+15. El 87,5% considera que sí existen casos de éxito en Chile, siendo los más mencionados como tal: Phage Technologies, NotCo y Andes Biotechnologies.
 
 ## Lo que aprendimos
 
