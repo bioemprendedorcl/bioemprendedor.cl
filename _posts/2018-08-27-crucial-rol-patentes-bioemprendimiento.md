@@ -3,8 +3,8 @@ title:  "El crucial rol de las patentes de invención en un emprendimiento biote
 excerpt: "Proteger las tecnologías desarrolladas en un laboratorio es una actividad indispensable que el emprendedor debe aprender a gestionar. Aquí te damos algunas claves para entender el valor estratégico y comercial que tienen las patentes de invención."
 author: Horacio Gonzalez
 header:
-  teaser: "https://bioemprendedor.cl/static/patentes-RZmQZw.jpg"
-  overlay_image: "https://bioemprendedor.cl/static/patentes-RZmQZw.jpg"
+  teaser: "https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_400/b2/patentes-RZmQZw.jpg"
+  overlay_image: "https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_1200/b2/patentes-RZmQZw.jpg"
   caption: "Foto: [William Iven](https://unsplash.com/photos/gcsNOsPEXfs) @ Unsplash"
   overlay_filter: 0.5
 categories:

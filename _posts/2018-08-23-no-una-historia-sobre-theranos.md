@@ -3,8 +3,8 @@ title:  "Esta es no es una historia sobre Theranos"
 excerpt: "Lo que sí me queda claro ahora es que hay que dejar la historia de Theranos atrás y voltear hacia adelante; ver lo que sí existe y llevarlo a la realidad."
 author: Patricia Rodil
 header:
-  teaser: "https://bioemprendedor.cl/static/laboratorio-3atEDH.jpg"
-  overlay_image: "https://bioemprendedor.cl/static/laboratorio-3atEDH.jpg"
+  teaser: "https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_400/b2/laboratorio-3atEDH.jpg"
+  overlay_image: "https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_1200/b2/laboratorio-3atEDH.jpg"
   caption: "Foto: [Drew Hays](https://unsplash.com/photos/tGYrlchfObE) @ Unsplash"
   overlay_filter: 0.5
 categories:

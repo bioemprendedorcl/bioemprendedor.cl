@@ -23,7 +23,7 @@ No está demás pedirles que **compartan esta publicación con todos los bioempr
 
 Haciendo click en el botón verde de más abajo podrán ingresar al formulario y completar con tus datos.
 
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdLj6VcBMn6O6BWzus25WTjvJxP5X_7RiyHL27t1qwnz64Hjg/viewform?usp=sf_link" class="btn btn--success btn--x-large" onclick="ga('send', 'event', 'click', 'formulario', 'censo2018', '0');"> <i class="far fa-clipboard-list"></i> ¡Quiero participar en el Censo Bioemprendedor 2018!</a></p>
+<p><a href="http://goo.gl/RLu1z5" class="btn btn--success btn--x-large" onclick="ga('send', 'event', 'click', 'formulario', 'censo2018', '0');"> <i class="far fa-clipboard-list"></i> ¡Quiero participar en el Censo Bioemprendedor 2018!</a></p>
 {: .text-center}
 
 ## Algunas consideraciones
@@ -52,7 +52,7 @@ Desde ya agradecemos la colaboración de:
 
 Sabemos que nos faltan muchas zonas de Chile (_Sobre todo en el norte_), por lo que si te quieres comprometer a compartir y difundir en tu región escríbenos a _hola@bioemprendedor.cl_. Lo único que te podemos ofrecer es nuestro eterno agradecimiento e incluirte en nuestro listado de colaboradores.
 
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdLj6VcBMn6O6BWzus25WTjvJxP5X_7RiyHL27t1qwnz64Hjg/viewform?usp=sf_link" class="btn btn--success btn--x-large" onclick="ga('send', 'event', 'click', 'formulario', 'censo2018', '0');"> <i class="far fa-clipboard-list"></i> ¡Quiero participar en el Censo Bioemprendedor 2018!</a></p>
+<p><a href="http://goo.gl/RLu1z5" class="btn btn--success btn--x-large" onclick="ga('send', 'event', 'click', 'formulario', 'censo2018', '0');"> <i class="far fa-clipboard-list"></i> ¡Quiero participar en el Censo Bioemprendedor 2018!</a></p>
 {: .text-center}
 
 [^1]: **Actualización 05/09/2018:** Hemos extendido la fecha de cierre del Censo por clamor popular, especialmente para tener más tiempo para llegar a gente en regiones :wink:. ¡Nos disculpamos por no considerarlo antes!
