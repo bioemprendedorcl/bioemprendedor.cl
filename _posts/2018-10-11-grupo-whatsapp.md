@@ -14,7 +14,7 @@ tags:
   - whatsapp
 ---
 
-Hoy queremos iniciar un nuevo experimento donde los invitamos a participar en nuestro grupo público de WhatsApp, donde los queremos invitar a conversar y debatir con otros integrantes del ecosistema. Esperamos que esto nos sirva para poder conocernos y poder llegar a construir una comunidad potente.
+Hoy queremos iniciar un nuevo experimento donde los invitamos a participar en nuestro grupo público de WhatsApp, donde **los queremos invitar a conversar y debatir con otros integrantes del ecosistema**. Esperamos que esto nos sirva para poder conocernos y poder llegar a construir una comunidad potente.
 
 Para unirte a nuestro grupo solo haz click en el siguiente botón:
 
@@ -46,4 +46,4 @@ Nunca está demás aclarar que WhatsApp tiene opciones para controlar las notifi
 <p><a href="https://chat.whatsapp.com/HZd9ExE5IGq25I6zhNIsg5" class="btn btn--success btn--x-large" target="_blank" rel="noopener noreferrer" onclick="ga('send', 'event', 'click', 'whatsapp', 'whatsapp', '0');"> <i class="fab fa-whatsapp"></i> ¡Quiero unirme al grupo!</a></p>
 {: .text-center}
 
-[^1]:	Hay un competo en la red que se conoce como la [NETETIQUETA](https://es.wikipedia.org/wiki/Netiqueta). Nos basamos en ella para proponer nuestras reglas.
+[^1]:	Hay un concepto en internet que se conoce como la [NETETIQUETA](https://es.wikipedia.org/wiki/Netiqueta). Nos basamos en ella para proponer nuestras reglas.
