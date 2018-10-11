@@ -6,7 +6,7 @@ classes: wide
 author_profile: true
 excerpt: "¡Queremos colaborar y crear un ecosistema de bioemprendimiento!"
 header:
-  overlay_image: https://bioemprendedor.cl/static/nosotros-f4MWWk.jpg
+  overlay_image: https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_1200/b2/nosotros-f4MWWk.jpg
   overlay_filter: 0.5
   caption: "Foto: [Pascal Swier](https://unsplash.com/photos/7de474KZIbs) @ Unsplash"
 ---
