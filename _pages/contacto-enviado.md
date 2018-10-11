@@ -6,7 +6,7 @@ classes: wide
 author_profile: true
 excerpt: "¡Siempre estamos disponibles para conversar!"
 header:
-  overlay_image: https://bioemprendedor.cl/static/contacto-bHgDJd.jpg
+  overlay_image: https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_1200/b2/contacto-bHgDJd.jpg
   overlay_filter: 0.5
   caption: "Foto: [Thought Catalog](https://unsplash.com/photos/UK78i6vK3sc) @ Unsplash"
 ---

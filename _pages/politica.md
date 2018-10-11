@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 excerpt: ""
 header:
-  overlay_image: https://bioemprendedor.cl/static/politicas-2E2My2.jpg
+  overlay_image: https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_1200/b2/politicas-2E2My2.jpg
   overlay_filter: 0.5
   caption: "Foto: [Štefan Štefančík](https://unsplash.com/photos/UCZF1sXcejo) @ Unsplash"
 toc: true
