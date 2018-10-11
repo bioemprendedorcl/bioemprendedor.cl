@@ -4,7 +4,7 @@ Diego Belmar:
   uri: "https://diego.belmar.cc"
   email: "diego@belmar.cc"
   bio: "Una mezcla de biotecnólogo emprendedor, fundador de @phagetech y amante de las cosas geeks. Traído a ustedes directamente desde SCL."
-  avatar: "/assets/img/avatar-diego.jpg"
+  avatar: "https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_200/avatar/diego.jpg"
   twitter: "diegoscl"
   github: "diegoscl"
 
@@ -12,7 +12,7 @@ Eduardo Zavala:
   name: "Eduardo Zavala"
   email: "edzavalap@gmail.com"
   bio: "Cruzado. Biotechnology Engineer. Creating unlimited imagination."
-  avatar: "/assets/img/avatar-eduardo.jpg"
+  avatar: "https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_200/avatar/eduardo.jpg"
   twitter: "edzavalap"
   github: "edzavala"
 
@@ -21,7 +21,7 @@ Pablo Fernandez:
   name: "Pablo Fernandez"
   email: "pf@endinv.com"
   bio: "Gerente Fondo Alerce VC. Apoyando emprendimientos con impacto global."
-  avatar: "https://bioemprendedor.cl/static/pablofernandez-2V5763.jpg"
+  avatar: "https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_200/b2/pablofernandez-2V5763.jpg"
   uri: "http://www.endinv.com/"
   linkedin: "pablofernandezg"
 
@@ -29,7 +29,7 @@ Patricia Rodil:
   name: "Patricia Rodil"
   email: "paty@mikros.com.mx"
   bio: "Bióloga molecular. La ciencia y la salud son mi pasión, amo el hummus. Fundadora de www.mikros.com.mx."
-  avatar: "https://bioemprendedor.cl/static/patriciarodil-kcgCST.jpg"
+  avatar: "https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_200/b2/patriciarodil-kcgCST.jpg"
   uri: "http://www.mikros.com.mx"
   twitter: "patorodil"
   instagram: "paty_rodil"
@@ -38,6 +38,6 @@ Horacio Gonzalez:
   name: "Horacio González"
   email: "dhzlatar@gmail.com"
   bio: "Conectando ciencia e industria. La innovación es el único camino. Ariqueño."
-  avatar: "https://bioemprendedor.cl/static/horaciogonzalez-h1hyzN.jpg"
+  avatar: "https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_200/b2/horaciogonzalez-h1hyzN.jpg"
   twitter: "dhzlatar"
   linkedin: "horacio-gonzalez-zlatar-5863b818"

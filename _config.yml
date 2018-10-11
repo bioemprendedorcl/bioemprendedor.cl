@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   # name             : "BIOEMPRENDEDOR"
-  avatar           : /assets/img/avatar-bioemprendedor.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_200/avatar/bioemp.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Un espacio de contenido, experiencias y aprendizajes para bioemprendedores. Hecho para ustedes por Eduardo Zavala y Diego Belmar."
   location         : "Santiago, Chile."
   email            : "hola@bioemprendedor.cl"
