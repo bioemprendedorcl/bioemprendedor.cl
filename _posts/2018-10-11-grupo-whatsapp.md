@@ -27,7 +27,7 @@ Queremos rayar la cancha para que las cosas no se nos salgan de las manos. La pr
 
 Algunas reglas básicas[^1]:
 
-1. La idea es que este grupo sirva para **conversar sobre bioemprendimiento**, no para enviar memes, chistes, SPAM, ofertas, ventas, solicitud de materiales, entre otras muchas cosas que se les pueden ocurrir, pero que no le sirven a nadie.
+1. La idea es que este grupo sirva para **conversar sobre bioemprendimiento**, por lo que esperamos que lo que se compartan sean dudas, comentarios e información, todo desde una mirada constructiva en pos de **ayudarnos como bioemprendedores**.
 2. Nunca olvides que la persona que lee el mensaje es otro ser humano con sentimientos que pueden ser lastimados.
 3. Adhiérete a los mismos estándares de comportamiento que sigues en la vida real.
 4. Escribir todo en mayúsculas se considera como gritar y, además, dificulta la lectura.
