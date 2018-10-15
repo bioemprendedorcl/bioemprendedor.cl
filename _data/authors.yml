@@ -1,4 +1,4 @@
-# EDITORES
+# EDITORES ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Diego Belmar:
   name: "Diego Belmar"
   uri: "https://diego.belmar.cc"
@@ -15,6 +15,13 @@ Eduardo Zavala:
   avatar: "https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_200/avatar/eduardo.jpg"
   twitter: "edzavalap"
   github: "edzavala"
+
+Ricardo Doberti:
+  name: "Ricardo Doberti"
+  email: "edzavalap@gmail.com"
+  bio: "Servidor público, bioemprendedor en recuperación e investigador de políticas públicas de CTI. Escritor part time y ñoño full time."
+  avatar: "https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_200/avatar/doberti.jpg"
+  email: "ricardo.doberti@gmail.com"
 
 # INVITADOS ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Pablo Fernandez:
