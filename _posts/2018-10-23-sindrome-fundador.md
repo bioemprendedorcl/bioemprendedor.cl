@@ -1,5 +1,5 @@
 ---
-title:  "El síndrome del fundador (aka "Fundadoritis")"
+title:  "El síndrome del fundador (aka _Fundadoritis_)"
 excerpt: "No es raro que los fundadores quieran resolver cada detalle que la empresa que crearon. Ellos harían cualquier cosa para sacarla adelante, pero eso se puede transformar en un problema."
 author: Diego Belmar
 header:
