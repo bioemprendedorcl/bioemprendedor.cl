@@ -4,11 +4,11 @@ permalink: /ecosistema/
 layout: single
 classes: wide
 author_profile: true
-excerpt: "Somos pocos, pero locos"
+excerpt: "Queremos colaborar con los bioemporendedores Chilenos para crear un ecosistema fuerte y dinámico."
 header:
-  overlay_image: https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_1200/b2/estrellado-R45mOI.jpg
+  overlay_image: https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_1200/b2/globo-terraqueo.jpg
   overlay_filter: 0.5
-  caption: "Foto: [Nathan Anderson](https://unsplash.com/photos/v_xElanNBtE) @ Unsplash"
+  caption: "Foto: [Kyle Glenn](https://unsplash.com/photos/nXt5HtLmlgE) @ Unsplash"
 sidebar:
   nav: "ecosistema"
 ---

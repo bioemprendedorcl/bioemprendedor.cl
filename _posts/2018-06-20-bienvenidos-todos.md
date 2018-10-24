@@ -3,8 +3,8 @@ title:  "¡Bienvenidos todos los bioemprendedores!"
 excerpt: "Un espacio de contenido y experiencias para bioemprendedores. ¡Te invitamos a colaborar!"
 author: Diego Belmar
 header:
-  teaser: "https://bioemprendedor.cl/static/bradley-wentzel-yQglZe.jpg"
-  overlay_image: "https://bioemprendedor.cl/static/bradley-wentzel-yQglZe.jpg"
+  teaser: "https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_400/b2/bradley-wentzel-yQglZe.jpg"
+  overlay_image: "https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_1200/b2/bradley-wentzel-yQglZe.jpg"
   caption: "Foto: [Bradley Wentzel](https://unsplash.com/photos/dF5klhmgWqM) @ Unsplash"
   overlay_filter: 0.5
 categories:
