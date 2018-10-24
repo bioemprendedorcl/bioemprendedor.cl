@@ -1,8 +1,7 @@
 ---
-title: "Calendario actividades"
+title: "Calendario de actividades y eventos"
 permalink: /ecosistema/calendario/
 layout: single
-classes: wide
 author_profile: false
 excerpt: "Una lista abierta de eventos y actividades para crear una verdadera comunidad de Bioemprendedores."
 header:
@@ -19,6 +18,12 @@ toc_icon: "calendar-alt"
 # 2018
 
 ## <i class="fal fa-calendar-check"></i> Noviembre
+
+|-----------------+------------+------------------+-----------------|
+| Día             | Hora       | Título           | Link            |
+|:----------------|:-----------|:-----------------|-----------------|
+|                 |            |                  |                 |
+|-----------------+------------+------------------+-----------------|
 
 ## <i class="fal fa-calendar-check"></i> Diciembre
 
