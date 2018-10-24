@@ -2,7 +2,7 @@
 title: "Calendario de actividades y eventos"
 permalink: /ecosistema/calendario/
 layout: single
-author_profile: false
+author_profile: true
 excerpt: "Una lista abierta de eventos y actividades para crear una verdadera comunidad de Bioemprendedores."
 header:
   overlay_image: https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_1200/b2/calendario.jpg
