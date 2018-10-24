@@ -8,3 +8,11 @@ main:
     url: /contacto/
   - title: "Archivo"
     url: /etiquetas/
+
+ecosistema:
+  - title: Secciones
+    children:
+      - title: "Calendario actividades"
+        url: /ecosistema/calendario/
+      - title: "Grupo público WhatsApp"
+        url: /ecosistema/whatsapp/
