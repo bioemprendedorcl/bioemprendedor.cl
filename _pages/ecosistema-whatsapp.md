@@ -3,7 +3,7 @@ title: "Grupo público en WhatsApp"
 permalink: /ecosistema/whatsapp/
 layout: single
 classes: wide
-author_profile: false
+author_profile: true
 excerpt: "Los invitamos a conversar y debatir con otros integrantes del ecosistema a través de WhatsApp."
 header:
   overlay_image: https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_1200/b2/celular-whatsapp.jpg

@@ -10,9 +10,9 @@ main:
     url: /etiquetas/
 
 ecosistema:
-  - title: Ecosistema Bioemprendedor.cl
+  - title: Ecosistema Bioemprendedor
     children:
-      - title: "Censo Bioemprendedor"
+      - title: "Censo permanente"
         url: /ecosistema/censo/
       - title: "Calendario de actividades"
         url: /ecosistema/calendario/
