@@ -3,7 +3,7 @@ title:  "¿Por qué diantres un bioemprendedor debería interesarse en política
 excerpt: "Si la política es la voluntad de ir a algún lugar en particular, la política pública es la ruta para llegar a dicho lugar."
 author: Ricardo Doberti
 header:
-  teaser: "https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_400/b2/muralla-chile.jpg
+  teaser: "https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_400/b2/muralla-chile.jpg"
   overlay_image: "https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_1200/b2/muralla-chile.jpg"
   caption: "Foto: [Luis Villasmil](https://unsplash.com/photos/sGlwpgB7ENM) @ Unsplash"
   overlay_filter: 0.5
