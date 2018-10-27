@@ -15,6 +15,12 @@ toc_label: "2018 - 2019"
 toc_icon: "calendar-alt"
 ---
 
+Aquí encontraras una lista mensual con los próximas actividades y eventos relacionados al Bioemprendimiento. Intentaremos de mantener siempre actualizado, pero necesitamos de la ayuda de todos. Si tienes un dato o eres organizador te pedimos nos mandes los datos de la actividad o evento utilizando el formulario del botón de más abajo. ¡Actualizaremos la lista ASAP!
+
+<p><a href="/ecosistema/calendario/enviar" class="btn btn--warning btn--x-large" onclick="ga('send', 'event', 'click', 'calendario', 'EnviarEvento', '0');"> <i class="fal fa-calendar-plus"></i> Enviar una actividad o evento</a></p>
+
+---
+
 # 2018
 
 ## <i class="fal fa-calendar-check"></i> Noviembre
