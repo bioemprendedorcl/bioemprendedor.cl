@@ -1,10 +1,10 @@
 ---
-title: "Grupo público en WhatsApp"
-permalink: /ecosistema/whatsapp/
+title: "Grupo público en Telegram"
+permalink: /ecosistema/telegram/
 layout: single
 classes: wide
 author_profile: true
-excerpt: "Los invitamos a conversar y debatir con otros integrantes del ecosistema a través de WhatsApp."
+excerpt: "Los invitamos a conversar y debatir con otros integrantes del ecosistema a través de Telegram."
 header:
   overlay_image: https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_1200/b2/celular-whatsapp.jpg
   overlay_filter: 0.5
@@ -17,7 +17,7 @@ sidebar:
 
 Para unirte a nuestro grupo solo haz click en el siguiente botón:
 
-<p><a href="https://chat.whatsapp.com/HZd9ExE5IGq25I6zhNIsg5" class="btn btn--success btn--x-large" target="_blank" rel="noopener noreferrer" onclick="ga('send', 'event', 'click', 'whatsapp', 'whatsapp', '0');"> <i class="fab fa-whatsapp"></i> ¡Quiero unirme al grupo!</a></p>
+<p><a href="https://t.me/amigos_bioemp" class="btn btn--info btn--x-large" target="_blank" rel="noopener noreferrer" onclick="ga('send', 'event', 'click', 'telegram', 'telegram', '0');"> <i class="fab fa-telegram"></i> ¡Quiero unirme al grupo!</a></p>
 {: .text-center}
 
 ## Reglas claras mantienen la amistad
@@ -40,9 +40,9 @@ Algunas reglas básicas[^1]:
 
 ## ¿Te molestan las notificaciones?
 
-Nunca está demás aclarar que WhatsApp tiene opciones para controlar las notificaciones, las que te ayudarán si crees que vas a recibir muchas por culpa de unirte a este tipo de grupos. Puedes encontrar las instrucciones para [Android](https://faq.whatsapp.com/es/android/26000003/?category=5245251) o [iOS](https://faq.whatsapp.com/es/iphone/26000126/?category=5245251) en las [preguntas frecuentes de WhatsApp](https://faq.whatsapp.com/).
+Nunca está demás aclarar que Telegram tiene opciones para controlar las notificaciones, las que te ayudarán si crees que vas a recibir muchas por culpa de unirte a este tipo de grupos. Puedes encontrar las instrucciones para en las [preguntas frecuentes de Telegram](https://telegram.org/faq/es#problemas-de-notificaciones). Si quieres más ayuda nos puedes preguntar en el mismo grupo.
 
-<p><a href="https://chat.whatsapp.com/HZd9ExE5IGq25I6zhNIsg5" class="btn btn--success btn--x-large" target="_blank" rel="noopener noreferrer" onclick="ga('send', 'event', 'click', 'whatsapp', 'whatsapp', '0');"> <i class="fab fa-whatsapp"></i> ¡Quiero unirme al grupo!</a></p>
+<p><a href="https://t.me/amigos_bioemp" class="btn btn--info btn--x-large" target="_blank" rel="noopener noreferrer" onclick="ga('send', 'event', 'click', 'telegram', 'telegram', '0');"> <i class="fab fa-telegram"></i> ¡Quiero unirme al grupo!</a></p>
 {: .text-center}
 
 [^1]:	Hay un concepto en internet que se conoce como la ["Netetiqueta"](https://es.wikipedia.org/wiki/Netiqueta). Nos basamos en ella para proponer nuestras reglas.
