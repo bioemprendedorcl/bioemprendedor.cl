@@ -14,7 +14,7 @@ tags:
   - whatsapp
 ---
 
-**ACTUALIZACIÓN NOVIEMBRE 2018:** Después de este anuncio nuestro grupo empezó a crecer, pero lamentablemente fuimos victimas de los problemas de seguridad de WhatsApp y nos empezó a llegar SPAM con niñas ligeras de ropa, por lo que nos vimos obligados a cerrar el grupo. La buena noticia es que encontramos una mejor alternativa y ahora **["¡Tenemos un grupo público en Telegram!"](/ecosistema/telegram/)** <i class="fab fa-telegram-plane"></i> Sigue el link para que veas como unirte.
+**ACTUALIZACIÓN NOVIEMBRE 2018:** Después de este anuncio nuestro grupo empezó a crecer, pero lamentablemente fuimos victimas de los problemas de seguridad de WhatsApp y nos empezó a llegar SPAM con niñas ligeras de ropa, por lo que nos vimos obligados a cerrar el grupo. La buena noticia es que encontramos una mejor alternativa y ahora **[¡Tenemos un grupo público en Telegram!](/ecosistema/telegram/) <i class="fab fa-telegram-plane"></i>** Sigue el link para que veas como unirte.
 {: .notice--danger}
 
 Hoy queremos iniciar un nuevo experimento donde los invitamos a participar en nuestro grupo público de WhatsApp, donde **los queremos invitar a conversar y debatir con otros integrantes del ecosistema**. Esperamos que esto nos sirva para poder conocernos y poder llegar a construir una comunidad potente.
