@@ -14,14 +14,14 @@ tags:
   - whatsapp
 ---
 
-**ACTUALIZACIÓN NOVIEMBRE 2018:** Despúes de este anuncio nuestro grupo empezó a crecer, pero lamentablemente fuimos victimas de los problemas de seguridad de WhatsApp y nos empezó a llegar SPAM con niñas ligeras de ropa, por lo que nos vimos obligados a cerrar el grupo. La buena noticia es que encontramos una mejor alternativa y ahora ["¡Tenemos un grupo público en Telegram!"](/ecosistema/telegram/) Sigue el link para que veas como unirte.
+**ACTUALIZACIÓN NOVIEMBRE 2018:** Después de este anuncio nuestro grupo empezó a crecer, pero lamentablemente fuimos victimas de los problemas de seguridad de WhatsApp y nos empezó a llegar SPAM con niñas ligeras de ropa, por lo que nos vimos obligados a cerrar el grupo. La buena noticia es que encontramos una mejor alternativa y ahora **["¡Tenemos un grupo público en Telegram!"](/ecosistema/telegram/)** <i class="fab fa-telegram-plane"></i> Sigue el link para que veas como unirte.
 {: .notice--danger}
 
 Hoy queremos iniciar un nuevo experimento donde los invitamos a participar en nuestro grupo público de WhatsApp, donde **los queremos invitar a conversar y debatir con otros integrantes del ecosistema**. Esperamos que esto nos sirva para poder conocernos y poder llegar a construir una comunidad potente.
 
 Para unirte a nuestro grupo solo haz click en el siguiente botón:
 
-<p><a href="https://chat.whatsapp.com/HZd9ExE5IGq25I6zhNIsg5" class="btn btn--success btn--x-large" target="_blank" rel="noopener noreferrer" onclick="ga('send', 'event', 'click', 'whatsapp', 'whatsapp', '0');"> <i class="fab fa-whatsapp"></i> ¡Quiero unirme al grupo!</a></p>
+<p><a href="#" class="btn btn--success btn--x-large" target="_blank" rel="noopener noreferrer" onclick="ga('send', 'event', 'click', 'whatsapp', 'whatsapp', '0');"> <i class="fab fa-whatsapp"></i> ¡Quiero unirme al grupo!</a></p>
 {: .text-center}
 
 ## Reglas claras mantienen la amistad
@@ -46,7 +46,7 @@ Algunas reglas básicas[^1]:
 
 Nunca está demás aclarar que WhatsApp tiene opciones para controlar las notificaciones, las que te ayudarán si crees que vas a recibir muchas por culpa de unirte a este tipo de grupos. Puedes encontrar las instrucciones para [Android](https://faq.whatsapp.com/es/android/26000003/?category=5245251) o [iOS](https://faq.whatsapp.com/es/iphone/26000126/?category=5245251) en las [preguntas frecuentes de WhatsApp](https://faq.whatsapp.com/).
 
-<p><a href="https://chat.whatsapp.com/HZd9ExE5IGq25I6zhNIsg5" class="btn btn--success btn--x-large" target="_blank" rel="noopener noreferrer" onclick="ga('send', 'event', 'click', 'whatsapp', 'whatsapp', '0');"> <i class="fab fa-whatsapp"></i> ¡Quiero unirme al grupo!</a></p>
+<p><a href="#" class="btn btn--success btn--x-large" target="_blank" rel="noopener noreferrer" onclick="ga('send', 'event', 'click', 'whatsapp', 'whatsapp', '0');"> <i class="fab fa-whatsapp"></i> ¡Quiero unirme al grupo!</a></p>
 {: .text-center}
 
 [^1]:	Hay un concepto en internet que se conoce como la ["Netetiqueta"](https://es.wikipedia.org/wiki/Netiqueta). Nos basamos en ella para proponer nuestras reglas.
