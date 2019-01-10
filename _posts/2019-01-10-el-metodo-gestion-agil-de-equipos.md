@@ -60,15 +60,15 @@ Para que se vayan familiarizando, les dejo un ejemplo de como se ve la hoja de C
 
 Para dejar todo claro, en la siguiente explicación voy a hablar de Columnas, Filas, Celdas y Hojas con las coordenadas correspondientes al archivo que les deje más arriba. ¡Ojo ahí!
 
-No se asusten si al leer esto parece un poco complicado, en la práctica se aplica muy fácil y casi de manera natural.{: .notice--warning}
+No se asusten si al leer esto parece un poco complicado, en la práctica se aplica muy fácil y casi de manera natural. {: .notice--warning}
 
-### Antes del primer ciclo
+### 0. Antes del primer ciclo
 
 Antes de empezar el primer ciclo deben reunir a su equipo y hacerle una pequeña introducción de “El Método” para que todos empiecen a incorporarlo. En esa instancia pídanles que cada uno haga el ejercicio de generar una lista con las tareas que visualizan deben realizar al menos en las próximas 4 semanas. 
 
 Después, el primer Líder (_Que debe ser quien tomó la iniciativa de aplicar “El Método” y se leyó en profundidad esta columna_) antes de hacer la reunión de inicio de ciclo debe pasar las listas individuales a “La Lista” para que la primera reunión no sea una traumática experiencia en la que todos empiezan recién a pensar en las cosas que tienen que hacer.
 
-### El inicio del ciclo
+### 1. El inicio del ciclo
 
 Cada ciclo comienza con una reunión presencial de Inicio de ciclo, en la cual todos los integrantes del equipo deciden cuales son las tareas de La Lista que se van a realizar en el ciclo. Esta decisión se toma en base a una mirada realista de lo que es posible ejecutar en 2 semanas y debe ser considerado como un compromiso total por todo el equipo. Durante el proceso hay que seleccionar las tareas que previamente se llenaron en la hoja “La Lista” y una por una asignarle un valor relativo para su puntaje que dejamos consignado en la fila correspondiente en la columna B. Luego se ordenan de mayor a menor (Z → A) y se copian en la hoja de la cascada del ciclo correspondiente. Hecho eso, inmediatamente tarea por tarea se define el criterio de aceptación en la columna D, el cual es el hito que marcará que la tarea se pueda dar por finalizada. 
 
@@ -76,7 +76,7 @@ Por último, se dejan definidas las fechas y hora de cada uno de los FUP que se 
 
 Es tarea de El Líder y El Facilitador lograr que las reuniones fluyan de la mejor forma posible, por lo que o si no va a ser un trámite eterno. Por experiencia hay que considerar que las reuniones de inicio tendrán una duración aproximada de entre 1,5 y 2 horas.
 
-### El Follow-Up (aka El FUP)
+### 2. El Follow-Up (aka El FUP)
 
 Con la cascada lista, un par de días después se realizará el primer FUP. Esta reunión, como lo definimos, puede ser presencial, virtual o una mezcla. Lo importante es que estén todos los integrantes del equipo. El FUP es una instancia sagrada, que debe ocurrir si o si como fue acordado. Lo ideal es que todos estén viendo El Tablero para seguir la revisión de la cascada en vivo.
 
@@ -84,7 +84,7 @@ El proceso es relativamente rápido. El líder lee en voz alta cada una de las t
 
 Terminada la revisión de cada una de las tareas vamos a poder medir la “Velocidad del ciclo”, que es equivalente a la suma total de los puntos descontados hasta el momento. Ese valor lo llevamos a la Columna “Valor Diario” (Columna H) según la fecha correspondiente, lo que hará que se genere el gráfico de la cascada.
 
-### El término de ciclo
+### 3. El término de ciclo
 
 Esta también debe ser una reunión presencial, que tenderá a ser de alrededor de 1 hora de duración. Esta es la instancia de evaluación, donde nuevamente vamos tarea por tarea viendo como terminamos, en qué nos aportó para avanzar en los objetivos y para medir cuán eficaces fuimos. Para esto desarrollamos una especie de FUP, pero con algo más de profundidad en las tareas que no logramos cerrar. Terminado este análisis, nos vamos a la velocidad del ciclo y copiamos ese bello número en la columna C de la hoja “Eficacia”. 
 
@@ -92,7 +92,7 @@ En este punto veremos cómo por arte de magia visualizaremos una pequeña métri
 
 Además, en el cierre me gusta agregar alguna actividad de desarrollo de habilidades de equipo, la que le agrega algo lúdico a todo este proceso. Estas actividades no son obligatorias y las voy a dejar para contarselas en otra columna.
 
-### Pasando al siguiente ciclo
+### 4. Pasando al siguiente ciclo
 
 Para repetir el proceso es necesario hacer un paso más. Las tareas que no se terminaron en un ciclo, es decir, quedaron en blanco o en WiP, deben pasar al ciclo siguiente antes de empezar a traspasar las tareas de La Lista. Y no traten de pasar menos tareas de la lista para hacerlo más fácil, al final lo único que estarían haciendo es engañándose. Simple.
 
