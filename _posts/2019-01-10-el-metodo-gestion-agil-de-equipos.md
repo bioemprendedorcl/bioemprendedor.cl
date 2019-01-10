@@ -88,7 +88,7 @@ Terminada la revisión de cada una de las tareas vamos a poder medir la “Veloc
 
 Esta también debe ser una reunión presencial, que tenderá a ser de alrededor de 1 hora de duración. Esta es la instancia de evaluación, donde nuevamente vamos tarea por tarea viendo como terminamos, en qué nos aportó para avanzar en los objetivos y para medir cuán eficaces fuimos. Para esto desarrollamos una especie de FUP, pero con algo más de profundidad en las tareas que no logramos cerrar. Terminado este análisis, nos vamos a la velocidad del ciclo y copiamos ese bello número en la columna C de la hoja “Eficacia”. 
 
-En este punto veremos cómo por arte de magia visualizaremos una pequeña métrica que nos ayudará a mejorar como equipo. Según los eruditos, los equipos con una eficacia sobre el 90% son los super-mega-duper-equipos; entre 80% y 90% los muy buenos equipos; entre un 70% y un 80% los equipos tienen espacio para mejorar; y los que tengan menos de un 70% están haciendo algo mal y es mejor que se replanteen su estrategia de trabajo.
+En este punto veremos cómo por arte de magia visualizaremos una pequeña métrica que nos ayudará a mejorar como equipo. Según los eruditos, **los equipos con una eficacia sobre el 90% son los super-mega-duper-equipos; entre 80% y 90% los muy buenos equipos; entre un 70% y un 80% los equipos tienen espacio para mejorar; y los que tengan menos de un 70% están haciendo algo mal y es mejor que se replanteen su estrategia de trabajo**.
 
 Además, en el cierre me gusta agregar alguna actividad de desarrollo de habilidades de equipo, la que le agrega algo lúdico a todo este proceso. Estas actividades no son obligatorias y las voy a dejar para contarselas en otra columna.
 
