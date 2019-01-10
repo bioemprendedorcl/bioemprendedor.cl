@@ -60,7 +60,8 @@ Para que se vayan familiarizando, les dejo un ejemplo de como se ve la hoja de C
 
 Para dejar todo claro, en la siguiente explicación voy a hablar de Columnas, Filas, Celdas y Hojas con las coordenadas correspondientes al archivo que les deje más arriba. ¡Ojo ahí!
 
-No se asusten si al leer esto parece un poco complicado, en la práctica se aplica muy fácil y casi de manera natural. {: .notice--warning}
+No se asusten si al leer esto parece un poco complicado, en la práctica se aplica muy fácil y casi de manera natural.
+{: .notice--warning}
 
 ### 0. Antes del primer ciclo
 
