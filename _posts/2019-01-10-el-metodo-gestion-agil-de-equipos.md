@@ -26,7 +26,7 @@ gallery:
 
 De las entrañas de la [Fundación Ciencia y Vida](http://www.cienciavida.org/ "Fundación Ciencia y Vida") nació algo que siempre conocí simplemente como **“El Método”**, donde la idea es mantener el control de las tareas y actividades del equipo de trabajo, para que así todos nos alineemos en pos de una visión y objetivo común.
 
-Cuenta la historia que él rockstar (_y mi mentor personal_) de @latingene comenzó con este método, lo fue perfeccionando y luego transmitiendo a los que pasamos por la Fundación. Cada uno lo iba adaptando a sus necesidades, pero básicamente todos seguimos algunos lineamientos básicos que hoy les quiero compartir. Esto lo tomo como una especie de _framework_, donde les voy a describir las bases y después cada uno de ustedes puede construir sus propias variaciones en base a sus necesidades.
+Cuenta la historia que él rockstar (_y mi mentor personal_) de [@latingene](https://twitter.com/latingene) comenzó con este método, lo fue perfeccionando y luego transmitiendo a los que pasamos por la Fundación. Cada uno lo iba adaptando a sus necesidades, pero básicamente todos seguimos algunos lineamientos básicos que hoy les quiero compartir. Esto lo tomo como una especie de _framework_, donde les voy a describir las bases y después cada uno de ustedes puede construir sus propias variaciones en base a sus necesidades.
 
 El 2018 comencé un periplo de colaboración y asesoría con diversos proyectos, donde uno de los primeros pasos que he estado aplicando es la introducción de “El Método”, para así mejorar las capacidades de gestión y podamos ir todos alineados al fin común. ¡Creanme que funciona! He visto como equipos que están muy dispersos logran comunicar mejor en lo que está cada uno y se logran coordinar mejor; logran por fin tener objetivos comunes claros; se dan realmente espacios para respirar y evaluar hacia dónde van; generan conversaciones entre todos los integrantes, lo que promueve sinergias y nuevas ideas; existe una real medición de cómo están trabajando, por lo que pueden enfocarse en mejorar como equipo; entre otros muchos beneficios.
 
@@ -98,7 +98,7 @@ Para repetir el proceso es necesario hacer un paso más. Las tareas que no se te
 
 ## Esta es una herramienta simple, pero poderosa
 
-Si después de leer todo esto todavía se preguntan si realmente algo así serviría, le pedí a @edzavalap que les compartiera una columna con la experiencia que han tenido de aplicarlo en Done Properly Co, así que en unos días les estaremos contando sobre “El Método” desde el otro lado de la cancha.
+Si después de leer todo esto todavía se preguntan si realmente algo así serviría, le pedí a [@edzavalap](https://twitter.com/edzavalap) que les compartiera una columna con la experiencia que han tenido de aplicarlo en Done Properly Co, así que en unos días les estaremos contando sobre “El Método” desde el otro lado de la cancha.
 
 De todo corazón espero que “El Método” les sirva para que sigan sacando adelante sus bioemprendimiento. Esta es una herramienta más para su arsenal. 
 
