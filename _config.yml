@@ -23,6 +23,7 @@ url                      : "https://bioemprendedor.cl" # the base hostname & pro
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bioemprendedorcl/bioemprendedor.cl" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/img/teaser.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_88/logo_solid.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
