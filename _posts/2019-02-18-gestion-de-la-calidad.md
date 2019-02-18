@@ -43,9 +43,9 @@ No se trata de obligarse a implementar la familia de las normas ISO 9000 desde e
 
 Este es un tema del que [algo hablé hace un tiempo](https://bioemprendedor.cl/2017/07/la-informacion-en-el-bioemprendimiento-vale-y-mucho/ "La información en el bioemprendimiento vale (¡y mucho!)"), pero que en el contexto de la calidad es increíblemente relevante. 
 
-Hay que entender que **documentar y registrar nos permite capturar la información que nos llevó a tomar desiciones durante el proceso de I+D**, por lo tanto respalda el porqué y define las características que queremos se mantengan de nuestro producto o servicio. ¡Ahí esta el alma de nuestro trabajo!
+Hay que entender que **documentar y registrar nos permite capturar la información que nos llevó a tomar decisiones durante el proceso de I+D**, por lo tanto respalda el porqué y define las características que queremos se mantengan de nuestro producto o servicio. ¡Ahí esta el alma de nuestro trabajo!
 
-Respaldando las desiciones en el futuro tendremos las herramientas para **argumentar, reproducir e incluso cuestionar** con las cosas claras. Lo que seguro te vas a dar cuenta que vas a necesitar y será tu mejor arma para llevar el producto o servicio al mercado. ¡Creelo! 
+Respaldando las decisiones en el futuro tendremos las herramientas para **argumentar, reproducir e incluso cuestionar** con las cosas claras. Lo que seguro te vas a dar cuenta que vas a necesitar y será tu mejor arma para llevar el producto o servicio al mercado. ¡Creelo! 
 
 Y tú, ¿Ya habías pensado en la _calidad_ de tu I+D o de ese gran producto o servicio que tienes ahí entre las manos? :zap:
 
