@@ -4,7 +4,7 @@ excerpt: "Lo que es necesario entender es que el rol del emprendedor que lidera 
 author: Diego Belmar
 date: 2019-05-01 12:10
 header:
-  teaser: "http://i3.ytimg.com/vi/QBV7HRGM7ns/maxresdefault.jpg"
+  teaser: "https://i3.ytimg.com/vi/QBV7HRGM7ns/maxresdefault.jpg"
   video:
     id: QBV7HRGM7ns
     provider: youtube
