@@ -1,11 +1,11 @@
 # netlify.toml
 # Comandos para el deploy del sitio en la infraestructura de Netlify.
 [build]
-  command = "bundle exec jekyll build --trace"
+  command = "bundle exec jekyll algolia --trace"
   publish = "_site"
   environment = { JEKYLL_ENV="production" }
 
-# Redirección proxy de contenido estatico alojado en B2 y cacheado por Cloudflare. (https://s2.dipio.cl/file/bioemprendedor/)
+# Redirección proxy de contenido estático alojado en B2 y cacheado por Cloudflare. (https://s2.dipio.cl/file/bioemprendedor/)
 [[redirects]]
   from = "/static/*"
   to = "https://f002.backblazeb2.com/file/bioemprendedor/:splat"
