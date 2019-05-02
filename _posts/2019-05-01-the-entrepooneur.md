@@ -2,7 +2,7 @@
 title:  "The Entrepooneur — En lo que no se debe transformar el CEO de un bioemprendimiento"
 excerpt: "Lo que es necesario entender es que el rol del emprendedor que lidera un proyecto — aka CEO — no es hacer crecer su ego, si no que se debe centrar en 3 funciones fundamentales."
 author: Diego Belmar
-date: 2019-04-29 9:30
+date: 2019-05-01 12:10
 header:
   video:
     id: QBV7HRGM7ns
