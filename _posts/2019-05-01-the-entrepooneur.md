@@ -4,6 +4,7 @@ excerpt: "Lo que es necesario entender es que el rol del emprendedor que lidera 
 author: Diego Belmar
 date: 2019-05-01 12:10
 header:
+  teaser: "http://i3.ytimg.com/vi/QBV7HRGM7ns/maxresdefault.jpg"
   video:
     id: QBV7HRGM7ns
     provider: youtube
@@ -31,8 +32,8 @@ Y sin duda se suman muchas de las cosas [sobre la *fundadoritis* de las que habl
 
 Entonces, queda claro que el ego no es para nada un aporte en el objetivo de crear y capturar valor. Lo que es necesario entender es que el rol del emprendedor que lidera un proyecto (aka "*CEO*") **no es hacer crecer su ego**, si no que se debe centrar en 3 funciones fundamentales:
 
-1. Crear el mejor equipo para mover el proyecto o servicio hacia adelante, hacia el mercado.
-2. Crear los *frameworks* con los cuales las personas que forman parte del equipo puedan decidir sin necesitar al CEO en todo. Aquí se hace vital que esos *frameworks* incluyan la capacidad de medir, para que todos sepamos como vamos.
-3. Exigir más al equipo en relación a obtener las máximas capacidades de cada uno para que sean la base de la velocidad de avance y crecimiento.
+1. **Crear el mejor equipo** para mover el proyecto o servicio hacia adelante, hacia el mercado.
+2. **Crear los *frameworks*** con los cuales las personas que forman parte del equipo puedan decidir sin necesitar al CEO en todo. Aquí se hace vital que esos *frameworks* incluyan la capacidad de medir, para que todos sepamos como vamos.
+3. **Exigir más al equipo** en relación a obtener las máximas capacidades de cada uno para que sean la base de la velocidad de avance y crecimiento.
 
 En resumen, la clave esta en que el CEO de un emprendimiento se tiene que **centrar en gestionar su equipo**, ese es su verdadero rol.
