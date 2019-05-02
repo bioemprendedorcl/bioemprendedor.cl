@@ -20,7 +20,7 @@ title_separator          : "-"
 name                     : "Bioemprendedor.cl - Eduardo Zavala y Diego Belmar"
 description              : "Un espacio de contenido, experiencias y aprendizajes para bioemprendedores. Hecho para ustedes por Eduardo Zavala y Diego Belmar."
 url                      : "https://bioemprendedor.cl" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "bioemprendedorcl/bioemprendedor.cl" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/img/teaser.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_88/logo_solid.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -60,7 +60,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
-search_provider          : algolia # lunr (default), algolia, google
+search_provider          : lunr # lunr (default), algolia, google
 algolia:
   application_id         : "772ZXK6Z5R" # YOUR_APPLICATION_ID
   index_name             : "bioemprendedor" # YOUR_INDEX_NAME
