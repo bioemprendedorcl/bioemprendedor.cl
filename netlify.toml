@@ -1,7 +1,7 @@
 # netlify.toml
 # Comandos para el deploy del sitio en la infraestructura de Netlify.
 [build]
-  command = "bundle exec jekyll"
+  command = "bundle exec jekyll build"
   publish = "_site"
   environment = { JEKYLL_ENV="development" }
 
