@@ -1,15 +1,11 @@
 ---
-title:  "Link: "Consejos para escribir sobre ciencia""
+title:  "Link: Consejos para escribir sobre ciencia"
 excerpt: "Algunos consejos para escribir sobre ciencia, tecnología e innovación."
 link: https://emiliadiaz.cl/2019/05/03/consejos-para-escribir-sobre-ciencia/
 author: Diego Belmar
 date: 2019-05-03 18:00
 categories:
   - link
-tags:
-  - blog
-  - consejos
-  - escritura
 ---
 
 > Llevo casi cincuenta artículos publicados entre Synbiobeta y Nature Biotechnology, más unos diez o veinte en mis medios propios. A estas alturas, tengo una idea decente de qué me gusta escribir y cómo, y qué cosas resultan mejor en mis redes y con mi estilo. Aquí van algunos consejos para quienes les interese escribir sobre ciencia, y para que los que aún no se lo han planteado se motiven a hacerlo.
