@@ -32,17 +32,11 @@
 {% include analytics.html %}
 
 <!-- Complementos de Google Analytics -->
-<script defer src="https://cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/scroll-depth@1/jquery.scrolldepth.min.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/riveted@0.0.0/riveted.min.js"></script>
-<!-- Activación de Riveted -->
-<script defer>
-  riveted.init();
-</script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/scroll-depth@1/jquery.scrolldepth.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/riveted@0.0.0/riveted.min.js"></script>
 <!-- Activación de Scroll Depth -->
-<script defer>
-  jQuery(function() {
-    jQuery.scrollDepth();
-  });
-</script>
+<script>jQuery(function() { jQuery.scrollDepth(); });</script>
+<!-- Activación de Riveted -->
+<script>riveted.init();</script>
 <!-- Complementos de Google Analytics -->
