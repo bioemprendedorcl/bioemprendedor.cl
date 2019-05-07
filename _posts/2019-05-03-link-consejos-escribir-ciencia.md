@@ -2,6 +2,11 @@
 title:  "Link: Consejos para escribir sobre ciencia"
 excerpt: "Algunos consejos para escribir sobre ciencia, tecnología e innovación."
 link: https://emiliadiaz.cl/2019/05/03/consejos-para-escribir-sobre-ciencia/
+header:
+  teaser: "https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_400/b2/escritura-tips.jpg"
+  overlay_image: "https://res.cloudinary.com/bioemp/image/upload/c_limit,f_auto,q_auto,w_1200/b2/escritura-tips.jpg"
+  caption: "Foto: [Nick Morrison](https://unsplash.com/photos/FHnnjk1Yj7Y) @ Unsplash"
+  overlay_filter: 0.5
 author: Diego Belmar
 date: 2019-05-03 18:00
 categories:
