@@ -65,7 +65,7 @@ es: &DEFAULT_ES
   ext_link_label             : "Enlace"
   less_than                  : "menos de"
   minute_read                : "minuto(s) de lectura"
-  share_on_label             : "Compartir"
+  share_on_label             : "Compartir esta publicación"
   meta_label                 :
   tags_label                 : "Etiquetas:"
   categories_label           : "Categorías:"
@@ -73,7 +73,7 @@ es: &DEFAULT_ES
   comments_label             : "Deja un comentario"
   comments_title             : "Comentarios"
   more_label                 : "Ver más"
-  related_label              : "PNuestras últimas publicaciones"
+  related_label              : "Nuestras últimas publicaciones"
   follow_label               : "Seguir:"
   feed_label                 : "Feed"
   powered_by                 : "Powered by"

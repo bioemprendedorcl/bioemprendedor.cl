@@ -1,4 +1,10 @@
 <section class="page__share">
+  <!-- Contenido relacionado - Shareaholic -->
+  <h4 class="page__share-title">OTRAS PUBLICACIONES QUE TE PUEDEN INTERESAR</h4>
+  <div class="shareaholic-canvas" data-app="recommendations" data-app-id="28249065"></div>
+</section>
+
+<section class="page__share">
   {% if site.data.ui-text[site.locale].share_on_label %}
     <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "Share on" }}</h4>
   {% endif %}
@@ -12,10 +18,4 @@
   <a href="whatsapp://send?text={{ page.url | absolute_url | url_encode }}?utm_source=WhatsApp&utm_medium=btn_compartir" class="btn btn--success" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} a través de WhatsApp" onclick="ga('send', 'event', 'btn_compartir', 'compartir', 'whatsapp', '0');"><i class="fab fa-fw fa-whatsapp" aria-hidden="true"></i><span> WhatsApp</span></a>
 
   <a href="tg://msg_url?url={{ page.url | absolute_url | url_encode }}?utm_source=Telegram&utm_medium=btn_compartir" class="btn btn--info" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} a través de Telegram" onclick="ga('send', 'event', 'btn_compartir', 'compartir', 'telegram', '0');"><i class="fab fa-fw fa-telegram" aria-hidden="true"></i></i><span> Telegram</span></a>
-</section>
-
-<section>
-  <!-- Contenido relacionado - Shareaholic -->
-  <h4 class="page__share-title">OTRAS PUBLICACIONES INTERESANTES</h4>
-  <div class="shareaholic-canvas" data-app="recommendations" data-app-id="28249065"></div>
 </section>
