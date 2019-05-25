@@ -79,7 +79,7 @@ es: &DEFAULT_ES
   powered_by                 : "Powered by"
   website_label              : "Sitio web"
   email_label                : "Email"
-  recent_posts               : "Entradas recientes"
+  recent_posts               : "Nuestras últimas publicaciones"
   undefined_wpm              : "Parámetro words_per_minute (Palabras por minuto) no definido en _config.yml"
   comment_form_info          : "Su dirección de correo no será publicada. Se han resaltado los campos requeridos"
   comment_form_comment_label : "Comentario"
