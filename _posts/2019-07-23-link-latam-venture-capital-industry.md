@@ -15,9 +15,7 @@ categories:
 
 :twisted_rightwards_arrows: [https://www.contxto.com/en/opinion/is-latin-americas-venture-capital-industry-adventurous-enough/](https://www.contxto.com/en/opinion/is-latin-americas-venture-capital-industry-adventurous-enough/)
 
-> The reality is that Latin Americans are culturally risk-averse. Add that to the fact that most of these are the first or second fund for these local firms and that’s the perfect recipe for investing in, what I like to call, “tech SMEs”. Not startups.
-
-> They don’t want to be “too” risky. They just want to survive... 
+> The reality is that Latin Americans are culturally risk-averse. Add that to the fact that most of these are the first or second fund for these local firms and that’s the perfect recipe for investing in, what I like to call, “tech SMEs”. Not startups... They don’t want to be “too” risky. They just want to survive... 
 
 ¡Gracias! No puedo decir otra cosa de esta excelente publicación donde se hace un análisis de la industria de capital de riesgo en Latinoamérica. No puedo estar más de acuerdo en que los VC's en Chile y en otros países de latinoamérica están aun en un punto donde el _venture_ capital no es tan _venture_, donde falta un poco más de aventura y ver más allá de los retornos a corto plazo. 
 
