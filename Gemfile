@@ -3,6 +3,7 @@ source "https://rubygems.org"
 gem "minimal-mistakes-jekyll", group: :jekyll_plugins
 gem "tzinfo-data"
 gem 'classifier-reborn', '~> 2.2'
+gem 'jemoji'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
