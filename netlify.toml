@@ -27,8 +27,8 @@
   force = true
 
 # Optional: Redirect default Netlify subdomain to primary domain
-[[redirects]]
-  from = "https://bioemprendedorcl.netlify.com/*"
-  to = "https://bioemprendedor.cl/:splat"
-  status = 301
-  force = true
+# [[redirects]]
+# from = "https://bioemprendedorcl.netlify.com/*"
+# to = "https://bioemprendedor.cl/:splat"
+# status = 301
+# force = true
